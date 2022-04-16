@@ -1,0 +1,1278 @@
+Player,Pick,Position,College,Value,Value/Year,Year,Predicted_Values,conference,actual value - pred value
+Trevor Lawrence,1,QB,Clemson,7,7.0,2021,3000,ACC,-3.7329799999999995
+Zach Wilson,2,QB,BYU,5,5.0,2021,2600,other,-4.67038
+Trey Lance,3,QB,North Dakota St.,3,3.0,2021,2200,other,-5.60778
+Kyle Pitts,4,TE,Florida,8,8.0,2021,1800,SEC,0.4548199999999998
+Ja'Marr Chase,5,WR,LSU,13,13.0,2021,1700,SEC,5.720470000000001
+Jaylen Waddle,6,WR,Alabama,7,7.0,2021,1600,SEC,-0.013880000000000337
+Penei Sewell,7,OL,Oregon,7,7.0,2021,1500,Pac-12,0.2517700000000005
+Jaycee Horn,8,DB,South Carolina,1,1.0,2021,1400,SEC,-5.4825800000000005
+Patrick Surtain II,9,DB,Alabama,7,7.0,2021,1350,SEC,0.650245
+DeVonta Smith,10,WR,Alabama,10,10.0,2021,1300,SEC,3.7830700000000004
+Justin Fields,11,QB,Ohio St.,6,6.0,2021,1250,Big Ten,-0.0841050000000001
+Micah Parsons,12,LB,Penn St.,18,18.0,2021,1200,Big Ten,12.04872
+Rashawn Slater,13,OL,Northwestern,14,14.0,2021,1150,Big Ten,8.181545
+Alijah Vera-Tucker,14,OL,USC,5,5.0,2021,1100,Pac-12,-0.6856299999999997
+Mac Jones,15,QB,Alabama,14,14.0,2021,1050,SEC,8.447195
+Zaven Collins,16,LB,Tulsa,3,3.0,2021,1000,other,-2.41998
+Alex Leatherwood,17,OL,Alabama,8,8.0,2021,950,SEC,2.7128449999999997
+Jaelan Phillips,18,DL,Miami (FL),5,5.0,2021,900,ACC,-0.15432999999999986
+Jamin Davis,19,LB,Kentucky,4,4.0,2021,875,SEC,-1.0879174999999996
+Kadarius Toney,20,WR,Florida,3,3.0,2021,850,SEC,-2.0215049999999994
+Kwity Paye,21,DL,Michigan,7,7.0,2021,800,Big Ten,2.11132
+Caleb Farley,22,DB,Virginia Tech,0,0.0,2021,780,ACC,-4.83555
+Christian Darrisaw,23,OL,Virginia Tech,5,5.0,2021,760,ACC,0.21757999999999988
+Najee Harris,24,RB,Alabama,10,10.0,2021,740,SEC,5.27071
+Travis Etienne,25,RB,Clemson,0,0.0,2021,720,ACC,-4.676159999999999
+Greg Newsome II,26,DB,Northwestern,3,3.0,2021,700,Big Ten,-1.62303
+Rashod Bateman,27,WR,Minnesota,4,4.0,2021,680,Big Ten,-0.5698999999999996
+Payton Turner,28,DE,Houston,1,1.0,2021,660,other,-3.51677
+Eric Stokes,29,DB,Georgia,4,4.0,2021,640,SEC,-0.46363999999999983
+Gregory Rousseau,30,DL,Miami (FL),10,10.0,2021,620,ACC,5.58949
+Odafe Oweh ,31,DE,Penn St.,3,3.0,2021,600,Big Ten,-1.35738
+Joe Tryon-Shoyinka,32,OLB,Washington,4,4.0,2021,590,Pac-12,-0.3308149999999994
+Tyson Campbell,33,DB,Georgia,5,5.0,2021,580,SEC,0.6957500000000003
+Elijah Moore,34,WR,Mississippi,4,4.0,2021,560,SEC,-0.25112000000000023
+Javonte Williams,35,RB,North Carolina,8,8.0,2021,550,ACC,3.7754450000000004
+Jevon Holland,36,S,Oregon,6,6.0,2021,540,Pac-12,1.8020100000000001
+Landon Dickerson,37,OL,Alabama,6,6.0,2021,530,SEC,1.8285749999999998
+Christian Barmore,38,DL,Alabama,3,3.0,2021,520,SEC,-1.1448599999999995
+Teven Jenkins,39,OL,Oklahoma St.,1,1.0,2021,510,Big 12,-3.118295
+Richie Grant,40,DB,Central Florida,1,1.0,2021,500,other,-3.09173
+Levi Onwuzurike,41,DL,Washington,1,1.0,2021,490,Pac-12,-3.0651650000000004
+Liam Eichenberg,42,OL,Notre Dame,7,7.0,2021,480,ACC,2.9614000000000003
+Trevon Moehrig,43,S,TCU,5,5.0,2021,470,Big 12,0.987965
+Kelvin Joseph,44,DB,Kentucky,1,1.0,2021,460,SEC,-2.98547
+Walker Little,45,T,Stanford,1,1.0,2021,450,Pac-12,-2.9589049999999997
+Jackson Carman,46,T,Clemson,4,4.0,2021,440,ACC,0.06766000000000005
+Asante Samuel Jr.,47,DB,Florida St.,3,3.0,2021,430,ACC,-0.9057750000000002
+Aaron Banks,48,OL,Notre Dame,1,1.0,2021,420,ACC,-2.87921
+Rondale Moore,49,WR,Purdue,5,5.0,2021,410,Big Ten,1.1473550000000001
+Azeez Ojulari,50,OLB,Georgia,7,7.0,2021,400,SEC,3.17392
+Samuel Cosmi,51,OL,Texas,4,4.0,2021,390,Big 12,0.20048500000000002
+Jeremiah Owusu-Koramoah,52,LB,Notre Dame,4,4.0,2021,380,ACC,0.2270500000000002
+Dillon Radunz,53,T,North Dakota St.,1,1.0,2021,370,other,-2.746385
+Dayo Odeyingbo,54,DL,Vanderbilt,1,1.0,2021,360,SEC,-2.71982
+Pat Freiermuth,55,TE,Penn St.,4,4.0,2021,350,Big Ten,0.30674500000000027
+D'Wayne Eskridge,56,WR,Western Michigan,1,1.0,2021,340,other,-2.66669
+Tutu Atwell,57,WR,Louisville,0,0.0,2021,330,ACC,-3.640125
+Nick Bolton,58,LB,Missouri,6,6.0,2021,320,SEC,2.3864400000000003
+Terrace Marshall Jr.,59,WR,LSU,1,1.0,2021,310,SEC,-2.586995
+Pete Werner,60,LB,Ohio St.,5,5.0,2021,300,Big Ten,1.4395699999999998
+Boogie Basham,61,DL,Wake Forest,1,1.0,2021,292,ACC,-2.5391779999999997
+Josh Myers,62,C,Ohio St.,3,3.0,2021,284,Big Ten,-0.5179260000000001
+Creed Humphrey,63,OL,Oklahoma,9,9.0,2021,276,Big 12,5.5033259999999995
+Kyle Trask,64,QB,Florida,0,0.0,2021,270,SEC,-3.480735
+Andre Cisco,65,DB,Syracuse,2,2.0,2021,265,ACC,-1.4674524999999998
+Kellen Mond,66,QB,Texas A&M,0,0.0,2021,260,SEC,-3.45417
+Davis Mills,67,QB,Stanford,7,7.0,2021,255,Pac-12,3.5591125
+Jalen Mayfield,68,OL,Michigan,7,7.0,2021,250,Big Ten,3.572395
+Joseph Ossai,69,LB,Texas,0,0.0,2021,245,Big 12,-3.4143225
+Brady Christensen,70,OL,BYU,3,3.0,2021,240,other,-0.40104000000000006
+Aaron Robinson,71,DB,Central Florida,1,1.0,2021,235,other,-2.3877575
+Alim McNeill,72,DT,North Carolina St.,3,3.0,2021,230,ACC,-0.3744749999999999
+Milton Williams,73,DL,Louisiana Tech,2,2.0,2021,225,other,-1.3611925
+Benjamin St-Juste,74,DB,Minnesota,1,1.0,2021,220,Big Ten,-2.3479099999999997
+Osa Odighizuwa,75,DL,UCLA,6,6.0,2021,215,Pac-12,2.6653725
+Paulson Adebo,76,CB,Stanford,6,6.0,2021,210,Pac-12,2.678655
+Josh Palmer,77,WR,Tennessee,3,3.0,2021,205,SEC,-0.30806250000000013
+Chazz Surratt,78,LB,North Carolina,1,1.0,2021,200,ACC,-2.29478
+Malcolm Koonce,79,DE,Buffalo,0,0.0,2021,195,other,-3.2814975
+Divine Deablo,80,DB,Virginia Tech,5,5.0,2021,190,ACC,1.731785
+Hunter Long,81,TE,Boston Col.,0,0.0,2021,185,ACC,-3.2549325
+Dyami Brown,82,WR,North Carolina,1,1.0,2021,180,ACC,-2.24165
+Tommy Tremble,83,TE,Notre Dame,1,1.0,2021,175,ACC,-2.2283675
+Chauncey Golston,84,DL,Iowa,2,2.0,2021,170,Big Ten,-1.2150849999999997
+Amari Rodgers,85,WR,Clemson,1,1.0,2021,165,ACC,-2.2018025
+Wyatt Davis,86,OL,Ohio St.,0,0.0,2021,160,Big Ten,-3.18852
+Kendrick Green,87,OL,Illinois,5,5.0,2021,155,Big Ten,1.8247625000000003
+Trey Sermon,88,RB,Ohio St.,1,1.0,2021,150,Big Ten,-2.161955
+Nico Collins,89,WR,Michigan,3,3.0,2021,145,Big Ten,-0.14867249999999999
+Patrick Jones II,90,DL,Pittsburgh,1,1.0,2021,140,ACC,-2.13539
+Anthony Schwartz,91,WR,Auburn,1,1.0,2021,136,SEC,-2.124764
+Monty Rice,92,LB,Georgia,2,2.0,2021,132,SEC,-1.114138
+Spencer Brown,93,OL,Northern Iowa,6,6.0,2021,128,other,2.896488
+Ben Cleveland,94,OL,Georgia,2,2.0,2021,124,SEC,-1.092886
+Robert Hainsey,95,OL,Notre Dame,1,1.0,2021,120,ACC,-2.0822599999999998
+Ronnie Perkins,96,DE,Oklahoma,0,0.0,2021,116,Big 12,-3.071634
+Tre' McKitty,97,TE,Georgia,0,0.0,2021,112,SEC,-3.061008
+Quinn Meinerz,98,C,Wisconsin–Whitewater,4,4.0,2021,108,other,0.9496180000000001
+Nahshon Wright,99,DB,Oregon St.,1,1.0,2021,104,Pac-12,-2.039756
+Elijah Molden,100,DB,Washington,3,3.0,2021,100,Pac-12,-0.029129999999999878
+Ifeatu Melifonwu,101,DB,Syracuse,1,1.0,2021,96,ACC,-2.018504
+Ambry Thomas,102,DB,Michigan,2,2.0,2021,92,Big Ten,-1.0078779999999998
+Ernest Jones,103,LB,South Carolina,4,4.0,2021,88,SEC,1.002748
+Brandon Stephens,104,CB,SMU,5,5.0,2021,86,other,2.008061
+Baron Browning,105,LB,Ohio St.,5,5.0,2021,84,Big Ten,2.013374
+Jay Tufele,106,DL,USC,0,0.0,2021,82,Pac-12,-2.981313
+Michael Carter,107,RB,North Carolina,6,6.0,2021,80,ACC,3.024
+Darren Hall,108,CB,San Diego St.,1,1.0,2021,78,other,-1.9706869999999999
+Dez Fitzpatrick,109,WR,Louisville,0,0.0,2021,76,ACC,-2.9653739999999997
+James Hudson,110,OL,Cincinnati,2,2.0,2021,74,other,-0.960061
+Cameron Sample,111,DE,Tulane,1,1.0,2021,72,other,-1.954748
+Amon-Ra St. Brown,112,WR,USC,8,8.0,2021,70,Pac-12,5.050565000000001
+Derrick Barnes,113,DE,Purdue,3,3.0,2021,68,Big Ten,0.05587799999999987
+Drew Dalman,114,C,Stanford,1,1.0,2021,66,Pac-12,-1.938809
+Jabril Cox,115,LB,LSU,1,1.0,2021,64,SEC,-1.9334959999999999
+Elerson Smith,116,DL,Northern Iowa,1,1.0,2021,62,other,-1.9281829999999998
+Bobby Brown,117,DL,Texas A&M,1,1.0,2021,60,SEC,-1.92287
+Chris Rumph,118,DE,Duke,1,1.0,2021,58,ACC,-1.917557
+Kene Nwangwu,119,RB,Iowa St.,2,2.0,2021,56,Big 12,-0.9122439999999998
+Rhamondre Stevenson,120,RB,Oklahoma,5,5.0,2021,54,Big 12,2.093069
+Jordan Smith,121,OLB,Ala-Birmingham,0,0.0,2021,52,other,-2.901618
+Tyler Shelvin,122,DT,LSU,0,0.0,2021,50,SEC,-2.896305
+Zech McPhearson,123,DB,Texas Tech,1,1.0,2021,49,Big 12,-1.8936484999999998
+John Bates,124,TE,Boise St.,2,2.0,2021,48,other,-0.8909919999999998
+Camryn Bynum,125,CB,California,2,2.0,2021,47,Pac-12,-0.8883354999999997
+Chuba Hubbard,126,RB,Oklahoma St.,5,5.0,2021,46,Big 12,2.114321
+Kylen Granson,127,TE,SMU,1,1.0,2021,45,other,-1.8830225
+Dan Moore,128,OL,Texas A&M,7,7.0,2021,44,SEC,4.119634
+Jaelon Darden,129,WR,North Texas,0,0.0,2021,43,other,-2.8777095
+Robert Rochell,130,DB,Central Arkansas,2,2.0,2021,42,other,-0.8750529999999999
+Tylan Wallace,131,WR,Oklahoma St.,0,0.0,2021,41,Big 12,-2.8723965
+Tommy Togiai,132,DT,Ohio St.,0,0.0,2021,40,Big Ten,-2.8697399999999997
+Ian Book,133,QB,Notre Dame,0,0.0,2021,40,ACC,-2.8697399999999997
+Janarius Robinson,134,DE,Florida St.,0,0.0,2021,39,ACC,-2.8670835
+Rashad Weaver,135,DL,Pittsburgh,0,0.0,2021,39,ACC,-2.8670835
+Marco Wilson,136,CB,Florida,5,5.0,2021,38,SEC,2.135573
+Tre Brown,137,CB,Oklahoma,1,1.0,2021,38,Big 12,-1.864427
+Josh Ball,138,OL,Marshall,0,0.0,2021,37,other,-2.8617705
+D'Ante Smith,139,T,East Carolina,1,1.0,2021,37,other,-1.8617705
+Buddy Johnson,140,LB,Texas A&M,0,0.0,2021,36,SEC,-2.859114
+Jacob Harris,141,WR,Central Florida,0,0.0,2021,36,other,-2.859114
+Royce Newman,142,G,Mississippi,8,8.0,2021,35,SEC,5.143542500000001
+Tyree Gillespie,143,S,Missouri,1,1.0,2021,35,SEC,-1.8564574999999999
+Joshua Kaindoh,144,DE,Florida St.,0,0.0,2021,34,ACC,-2.853801
+Luke Farrell,145,TE,Ohio St.,0,0.0,2021,34,Big Ten,-2.853801
+Jamien Sherwood,146,DB,Auburn,1,1.0,2021,33,SEC,-1.8511444999999997
+Brevin Jordan,147,TE,Miami (FL),1,1.0,2021,33,ACC,-1.8511444999999997
+Ta'Quon Graham,148,DL,Texas,2,2.0,2021,32,Big 12,-0.8484880000000001
+Evan McPherson,149,K,Florida,4,4.0,2021,32,SEC,1.1515119999999999
+Kenneth Gainwell,150,RB,Memphis,5,5.0,2021,31,other,2.1541685
+Larry Borom,151,OL,Missouri,3,3.0,2021,31,SEC,0.15416849999999993
+Caden Sterns,152,DB,Texas,2,2.0,2021,31,Big 12,-0.8458315000000001
+Tony Fields,153,LB,West Virginia,1,1.0,2021,30,Big 12,-1.843175
+Michael Carter,154,S,Duke,3,3.0,2021,30,ACC,0.156825
+Jaylon Moore,155,T,Western Michigan,2,2.0,2021,29,other,-0.8405185
+Isaiahh Loudermilk,156,DE,Wisconsin,2,2.0,2021,29,Big Ten,-0.8405185
+Ihmir Smith-Marsette,157,WR,Iowa,1,1.0,2021,29,Big Ten,-1.8405185
+Daviyon Nixon,158,DT,Iowa,0,0.0,2021,28,Big Ten,-2.837862
+Brenden Jaimes,159,OL,Nebraska,1,1.0,2021,28,Big Ten,-1.8378619999999999
+Shaun Wade,160,CB,Ohio St.,0,0.0,2021,27,Big Ten,-2.8352055
+Tommy Doyle,161,OL,Miami (OH),1,1.0,2021,27,other,-1.8352054999999998
+Noah Gray,162,TE,Duke,0,0.0,2021,27,ACC,-2.8352055
+Darrick Forrest,163,S,Cincinnati,0,0.0,2021,26,other,-2.8325489999999998
+Jamar Johnson,164,DB,Indiana,0,0.0,2021,26,Big Ten,-2.8325489999999998
+Shawn Davis,165,DB,Florida,0,0.0,2021,25,SEC,-2.8298925
+Keith Taylor,166,DB,Washington,2,2.0,2021,25,Pac-12,-0.8298925000000001
+Nate Hobbs,167,CB,Illinois,3,3.0,2021,25,Big Ten,0.17010749999999986
+Zach Davidson,168,TE,Central Missouri St.,0,0.0,2021,24,other,-2.827236
+Richard LeCounte,169,DB,Georgia,1,1.0,2021,24,SEC,-1.827236
+Garret Wallow,170,LB,TCU,2,2.0,2021,23,Big 12,-0.8245795
+Daelin Hayes,171,DL,Notre Dame,0,0.0,2021,23,ACC,-2.8245795
+Deommodore Lenoir,172,CB,Oregon,1,1.0,2021,23,Pac-12,-1.8245795
+Tedarrell Slaton,173,DL,Florida,1,1.0,2021,22,SEC,-1.821923
+Earnest Brown IV,174,DE,Northwestern,0,0.0,2021,22,Big Ten,-2.821923
+Jason Pinnock,175,CB,Pittsburgh,1,1.0,2021,21,ACC,-1.8192665
+K.J. Britt,176,LB,Auburn,1,1.0,2021,21,SEC,-1.8192665
+Cameron McGrone,177,LB,Michigan,0,0.0,2021,21,Big Ten,-2.8192665
+Shemar Jean-Charles,178,DB,Appalachian St.,1,1.0,2021,20,other,-1.8166099999999998
+Simi Fehoko,179,WR,Stanford,0,0.0,2021,20,Pac-12,-2.81661
+Talanoa Hufanga,180,S,USC,2,2.0,2021,19,Pac-12,-0.8139534999999998
+Cornell Powell,181,WR,Clemson,0,0.0,2021,19,ACC,-2.8139534999999998
+Adetokunbo Ogundeji,182,DL,Notre Dame,4,4.0,2021,19,ACC,1.1860465000000002
+Avery Williams,183,CB,Boise St.,1,1.0,2021,18,other,-1.8112969999999997
+Ben Mason,184,FB,Michigan,0,0.0,2021,18,Big Ten,-2.8112969999999997
+Nick Niemann,185,LB,Iowa,1,1.0,2021,17,Big Ten,-1.8086405
+Hamsah Nasirildeen,186,DB,Florida St.,1,1.0,2021,17,ACC,-1.8086405
+Frank Darby,187,WR,Arizona St.,0,0.0,2021,17,Pac-12,-2.8086405
+Joshuah Bledsoe,188,S,Missouri,0,0.0,2021,16,SEC,-2.805984
+Marlon Tuipulotu,189,DL,USC,0,0.0,2021,16,Pac-12,-2.805984
+Trey Hill,190,OL,Georgia,2,2.0,2021,15,SEC,-0.8033275
+Tarron Jackson,191,DE,Coastal Carolina,1,1.0,2021,15,other,-1.8033275
+Quinton Bohanna,192,DT,Kentucky,2,2.0,2021,15,SEC,-0.8033275
+Deonte Brown,193,OL,Alabama,0,0.0,2021,14,SEC,-2.800671
+Elijah Mitchell,194,RB,Louisiana,7,7.0,2021,14,other,4.1993290000000005
+Roy Lopez,195,DL,Arizona,6,6.0,2021,13,Pac-12,3.2019855
+Gary Brightwell,196,RB,Arizona,0,0.0,2021,13,Pac-12,-2.7980145
+William Sherman,197,OL,Colorado,0,0.0,2021,13,Pac-12,-2.7980145
+Larry Rountree,198,RB,Missouri,1,1.0,2021,12,SEC,-1.7953579999999998
+Jaylen Twyman,199,DL,Pittsburgh,0,0.0,2021,12,ACC,-2.795358
+Brandin Echols,200,CB,Kentucky,4,4.0,2021,11,SEC,1.2072985000000003
+Rodarius Williams,201,CB,Oklahoma St.,0,0.0,2021,11,Big 12,-2.7927014999999997
+Chris Evans,202,RB,Michigan,2,2.0,2021,11,Big Ten,-0.7927014999999997
+Marquez Stevenson,203,WR,Houston,0,0.0,2021,10,other,-2.790045
+Shi Smith,204,WR,South Carolina,1,1.0,2021,10,SEC,-1.790045
+Racey McMath,205,WR,LSU,0,0.0,2021,9,SEC,-2.7873885
+Landon Young,206,T,Kentucky,1,1.0,2021,9,SEC,-1.7873885
+Jonathan Marshall,207,DL,Arkansas,0,0.0,2021,9,SEC,-2.7873885
+Stone Forsythe,208,OL,Florida,1,1.0,2021,8,SEC,-1.784732
+Jalen Camp,209,WR,Georgia Tech,0,0.0,2021,8,ACC,-2.784732
+Victor Dimukeje,210,DE,Duke,1,1.0,2021,7,ACC,-1.7820755
+Demetric Felton,211,RB,UCLA,2,2.0,2021,7,Pac-12,-0.7820754999999999
+Damar Hamlin,212,DB,Pittsburgh,1,1.0,2021,7,ACC,-1.7820755
+Rachad Wildgoose,213,CB,Wisconsin,0,0.0,2021,6,Big Ten,-2.779419
+Cole Van Lanen,214,OL,Wisconsin,0,0.0,2021,6,Big Ten,-2.779419
+Brady Breeze,215,S,Oregon,0,0.0,2021,5,Pac-12,-2.7767625
+Quincy Roche,216,DL,Miami (FL),2,2.0,2021,5,ACC,-0.7767624999999998
+Khalil Herbert,217,RB,Virginia Tech,3,3.0,2021,5,ACC,0.2232375000000002
+Sam Ehlinger,218,QB,Texas,0,0.0,2021,4,Big 12,-2.7741059999999997
+Seth Williams,219,WR,Auburn,0,0.0,2021,4,SEC,-2.7741059999999997
+Isaiah McDuffie ,220,LB,Boston Col.,1,1.0,2021,3,ACC,-1.7714495000000001
+Dazz Newsome,221,WR,North Carolina,0,0.0,2021,3,ACC,-2.7714495
+Thomas Fletcher,222,LS,Alabama,0,0.0,2021,3,SEC,-2.7714495
+Tay Gowan,223,DB,Central Florida,0,0.0,2021,2,other,-2.768793
+JaCoby Stevens,224,S,LSU,0,0.0,2021,2,SEC,-2.768793
+Camaron Cheeseman,225,LS,Michigan,1,1.0,2021,1,Big Ten,-1.7661365
+Trey Smith,226,OL,Tennessee,10,10.0,2021,1,SEC,7.2338635
+Israel Mukuamu,227,DB,South Carolina,0,0.0,2021,1,SEC,-2.7661365
+Thomas Graham,228,CB,Oregon,0,0.0,2021,1,Pac-12,-2.7661365
+Mike Strachan,229,WR,Charleston (WV),0,0.0,2021,1,other,-2.7661365
+Jimmy Morrissey,230,OL,Pittsburgh,1,1.0,2021,1,ACC,-1.7661365
+Larnel Coleman,231,T,Massachusetts,0,0.0,2021,1,other,-2.7661365
+Phil Hoskins,232,DT,Kentucky,0,0.0,2021,1,SEC,-2.7661365
+Jake Funk,233,RB,Maryland,0,0.0,2021,1,Big Ten,-2.7661365
+Patrick Johnson,234,DE,Tulane,2,2.0,2021,1,other,-0.7661365
+Wyatt Hubert,235,DE,Kansas St.,0,0.0,2021,1,Big 12,-2.7661365
+Jack Anderson,236,OL,Texas Tech,1,1.0,2021,1,Big 12,-1.7661365
+Kary Vincent Jr.,237,CB,LSU,0,0.0,2021,1,SEC,-2.7661365
+Matt Farniok,238,G,Nebraska,1,1.0,2021,1,Big Ten,-1.7661365
+Jonathon Cooper,239,DE,Ohio St.,4,4.0,2021,1,Big Ten,1.2338635
+William Bradley-King,240,OLB,Baylor,0,0.0,2021,1,Big 12,-2.7661365
+Mark Webb,241,DB,Georgia,0,0.0,2021,1,SEC,-2.7661365
+Tre Nixon,242,WR,Central Florida,0,0.0,2021,1,other,-2.7661365
+James Wiggins,243,S,Cincinnati,0,0.0,2021,1,other,-2.7661365
+Gerrid Doaks,244,RB,Cincinnati,0,0.0,2021,1,other,-2.7661365
+Tre Norwood,245,DB,Oklahoma,2,2.0,2021,1,Big 12,-0.7661365
+Shaka Toney,246,DE,Penn St.,1,1.0,2021,1,Big Ten,-1.7661365
+Michal Menet,247,OL,Penn St.,0,0.0,2021,1,Big Ten,-2.7661365
+Will Fries,248,OL,Penn St.,0,0.0,2021,1,Big Ten,-2.7661365
+Ben Skowronek,249,WR,Notre Dame,1,1.0,2021,1,ACC,-1.7661365
+Khyiris Tonga,250,DL,BYU,2,2.0,2021,1,other,-0.7661365
+Chris Wilcox,251,DB,BYU,0,0.0,2021,1,other,-2.7661365
+Chris Garrett,252,DE,Concordia-St.Paul (MN),0,0.0,2021,1,other,-2.7661365
+Marquiss Spencer,253,DE,Mississippi St.,0,0.0,2021,1,SEC,-2.7661365
+Pressley Harvin III,254,P,Georgia Tech,1,1.0,2021,1,ACC,-1.7661365
+Kawaan Baker,255,WR,South Alabama,0,0.0,2021,1,other,-2.7661365
+Kylin Hill,256,RB,Mississippi St.,0,0.0,2021,1,SEC,-2.7661365
+Jermar Jefferson,257,RB,Oregon St.,1,1.0,2021,1,Pac-12,-1.7661365
+Dax Milne,258,WR,BYU,1,1.0,2021,1,other,-1.7661365
+Grant Stuard,259,LB,Houston,1,1.0,2021,1,other,-1.7661365
+Joe Burrow,1,QB,LSU,22,11.0,2020,3000,SEC,0.2670200000000005
+Chase Young,2,DE,Ohio St.,18,9.0,2020,2600,Big Ten,-0.6703799999999998
+Jeff Okudah,3,CB,Ohio St.,2,1.0,2020,2200,Big Ten,-7.60778
+Andrew Thomas,4,T,Georgia,11,5.5,2020,1800,SEC,-2.04518
+Tua Tagovailoa,5,QB,Alabama,12,6.0,2020,1700,SEC,-1.2795299999999994
+Justin Herbert,6,QB,Oregon,30,15.0,2020,1600,Pac-12,7.98612
+Derrick Brown,7,DT,Auburn,12,6.0,2020,1500,SEC,-0.7482299999999995
+Isaiah Simmons,8,LB,Clemson,12,6.0,2020,1400,ACC,-0.48258000000000045
+C.J. Henderson,9,CB,Florida,3,1.5,2020,1350,SEC,-4.849755
+Jedrick Wills Jr.,10,T,Alabama,14,7.0,2020,1300,SEC,0.7830700000000004
+Mekhi Becton,11,T,Louisville,5,2.5,2020,1250,ACC,-3.584105
+Henry Ruggs III,12,WR,Alabama,8,4.0,2020,1200,SEC,-1.9512800000000006
+Tristan Wirfs,13,T,Iowa,27,13.5,2020,1150,Big Ten,7.681545
+Javon Kinlaw,14,DT,South Carolina,9,4.5,2020,1100,SEC,-1.1856299999999997
+Jerry Jeudy,15,WR,Alabama,10,5.0,2020,1050,SEC,-0.5528049999999993
+AJ Terrell,16,CB,Clemson,15,7.5,2020,1000,ACC,2.08002
+CeeDee Lamb,17,WR,Oklahoma,19,9.5,2020,950,Big 12,4.212845
+Austin Jackson,18,T,USC,13,6.5,2020,900,Pac-12,1.3456700000000001
+Damon Arnette,19,CB,Ohio St.,2,1.0,2020,875,Big Ten,-4.0879175
+K'Lavon Chaisson,20,DE,LSU,6,3.0,2020,850,SEC,-2.0215049999999994
+Jalen Reagor,21,WR,TCU,7,3.5,2020,800,Big 12,-1.38868
+Justin Jefferson,22,WR,LSU,25,12.5,2020,780,SEC,7.66445
+Kenneth Murray,23,LB,Oklahoma,10,5.0,2020,760,Big 12,0.21757999999999988
+Cesar Ruiz,24,C,Michigan,11,5.5,2020,740,Big Ten,0.7707100000000002
+Brandon Aiyuk,25,WR,Arizona St.,13,6.5,2020,720,Pac-12,1.8238400000000006
+Jordan Love,26,QB,Utah St.,2,1.0,2020,700,other,-3.62303
+Jordyn Brooks,27,LB,Texas Tech,11,5.5,2020,680,Big 12,0.9301000000000004
+Patrick Queen,28,LB,LSU,18,9.0,2020,660,SEC,4.48323
+Isaiah Wilson,29,T,Georgia,0,0.0,2020,640,SEC,-4.46364
+Noah Igbinoghene,30,CB,Auburn,3,1.5,2020,620,SEC,-2.9105100000000004
+Jeff Gladney,31,CB,TCU,5,2.5,2020,600,Big 12,-1.85738
+Clyde Edwards-Helaire,32,RB,LSU,13,6.5,2020,590,SEC,2.1691850000000006
+Tee Higgins,33,WR,Clemson,17,8.5,2020,580,ACC,4.19575
+Michael Pittman Jr.,34,WR,USC,17,8.5,2020,560,Pac-12,4.24888
+D'Andre Swift,35,RB,Georgia,13,6.5,2020,550,SEC,2.2754450000000004
+Xavier McKinney,36,S,Alabama,9,4.5,2020,540,SEC,0.3020100000000001
+Kyle Dugger,37,S,Lenoir-Rhyne,9,4.5,2020,530,other,0.32857499999999984
+Yetur Gross-Matos,38,DE,Penn St.,5,2.5,2020,520,Big Ten,-1.6448599999999995
+Robert Hunt,39,G,Louisiana,11,5.5,2020,510,other,1.3817050000000002
+Ross Blacklock,40,DT,TCU,3,1.5,2020,500,Big 12,-2.59173
+Jonathan Taylor,41,RB,Wisconsin,27,13.5,2020,490,Big Ten,9.434835
+Laviska Shenault Jr.,42,WR,Colorado,9,4.5,2020,480,Pac-12,0.46140000000000025
+Cole Kmet,43,TE,Notre Dame,7,3.5,2020,470,ACC,-0.512035
+Grant Delpit,44,S,LSU,3,1.5,2020,460,SEC,-2.48547
+Antoine Winfield Jr.,45,S,Minnesota,14,7.0,2020,450,Big Ten,3.0410950000000003
+KJ Hamler,46,WR,Penn St.,4,2.0,2020,440,Big Ten,-1.93234
+Marlon Davidson,47,DE,Auburn,3,1.5,2020,430,SEC,-2.405775
+Darrell Taylor,48,DE,Tennessee,3,1.5,2020,420,SEC,-2.37921
+Chase Claypool,49,WR,Notre Dame,15,7.5,2020,410,ACC,3.647355
+Jaylon Johnson,50,CB,Utah,10,5.0,2020,400,Pac-12,1.1739199999999999
+Trevon Diggs,51,CB,Alabama,19,9.5,2020,390,SEC,5.7004850000000005
+Cam Akers,52,RB,Florida St.,4,2.0,2020,380,ACC,-1.7729499999999998
+Jalen Hurts,53,QB,Oklahoma,21,10.5,2020,370,Big 12,6.753615
+A.J. Epenesa,54,DE,Iowa,3,1.5,2020,360,Big Ten,-2.21982
+J.K. Dobbins,55,RB,Ohio St.,7,3.5,2020,350,Big Ten,-0.19325499999999973
+Raekwon Davis,56,DT,Alabama,14,7.0,2020,340,SEC,3.33331
+Van Jefferson,57,WR,Florida,10,5.0,2020,330,SEC,1.3598750000000002
+Ezra Cleveland,58,T,Boise St.,11,5.5,2020,320,other,1.8864400000000003
+Denzel Mims,59,WR,Baylor,4,2.0,2020,310,Big 12,-1.586995
+Josh Uche,60,LB,Michigan,3,1.5,2020,300,Big Ten,-2.06043
+Kristian Fulton,61,CB,LSU,5,2.5,2020,292,SEC,-1.0391779999999997
+AJ Dillon ,62,RB,Boston Col.,11,5.5,2020,284,ACC,1.982074
+Willie Gay Jr.,63,LB,Mississippi St.,9,4.5,2020,276,SEC,1.003326
+Jeremy Chinn,64,S,Southern Illinois,26,13.0,2020,270,other,9.519265
+Logan Wilson,65,LB,Wyoming,10,5.0,2020,265,other,1.5325475000000002
+Antonio Gibson ,66,RB,Memphis,14,7.0,2020,260,other,3.54583
+Julian Okwara,67,DE,Notre Dame,2,1.0,2020,255,ACC,-2.4408875
+Ashtyn Davis,68,S,California,5,2.5,2020,250,Pac-12,-0.9276049999999998
+Damien Lewis,69,G,LSU,14,7.0,2020,245,SEC,3.5856775
+Brandon Jones,70,S,Texas,7,3.5,2020,240,Big 12,0.09895999999999994
+Justin Madubuike,71,DT,Texas A&M,8,4.0,2020,235,SEC,0.6122424999999998
+Josh Jones,72,T,Houston,9,4.5,2020,230,other,1.125525
+DaVon Hamilton,73,DT,Ohio St.,7,3.5,2020,225,Big Ten,0.13880749999999997
+Zack Baun,74,LB,Wisconsin,6,3.0,2020,220,Big Ten,-0.3479099999999997
+Jonah Jackson,75,G,Ohio St.,15,7.5,2020,215,Big Ten,4.1653725
+Ke'Shawn Vaughn,76,RB,Illinois,2,1.0,2020,210,Big Ten,-2.321345
+Michael Ojemudia,77,CB,Iowa,4,2.0,2020,205,Big Ten,-1.3080625000000001
+Matt Hennessy,78,C,Temple,8,4.0,2020,200,other,0.7052200000000002
+Jabari Zuniga,79,DE,Florida,1,0.5,2020,195,SEC,-2.7814975
+Lynn Bowden Jr.,80,WR,Kentucky,2,1.0,2020,190,SEC,-2.268215
+Bryan Edwards,81,WR,South Carolina,6,3.0,2020,185,SEC,-0.2549324999999998
+Neville Gallimore,82,DT,Oklahoma,6,3.0,2020,180,Big 12,-0.24164999999999992
+Lloyd Cushenberry III,83,C,LSU,13,6.5,2020,175,SEC,3.2716325
+Terrell Lewis,84,LB,Alabama,3,1.5,2020,170,SEC,-1.7150849999999997
+Julian Blackmon,85,S,Utah,7,3.5,2020,165,Pac-12,0.2981975000000001
+Zack Moss,86,RB,Utah,8,4.0,2020,160,Pac-12,0.81148
+Anfernee Jennings,87,LB,Alabama,3,1.5,2020,155,SEC,-1.6752374999999997
+Jordan Elliott,88,DT,Texas,3,1.5,2020,150,Big 12,-1.6619549999999998
+Cameron Dantzler,89,CB,Mississippi St.,7,3.5,2020,145,SEC,0.3513275
+Jonathan Greenard,90,DE,Florida,6,3.0,2020,140,SEC,-0.13539000000000012
+Devin Asiasi,91,TE,UCLA,0,0.0,2020,136,Pac-12,-3.124764
+Devin Duvernay,92,WR,Texas,6,3.0,2020,132,Big 12,-0.11413800000000007
+Darrynton Evans,93,RB,Appalachian St.,1,0.5,2020,128,other,-2.603512
+Josiah Deguara,94,TE,Cincinnati,2,1.0,2020,124,other,-2.092886
+McTelvin Agim,95,DT,Arkansas,2,1.0,2020,120,SEC,-2.0822599999999998
+Lucas Niang,96,T,TCU,6,3.0,2020,116,Big 12,-0.07163399999999998
+Jacob Phillips,97,LB,LSU,3,1.5,2020,112,SEC,-1.5610080000000002
+Malik Harrison,98,LB,Ohio St.,7,3.5,2020,108,Big Ten,0.4496180000000001
+Matt Peart,99,T,Connecticut,3,1.5,2020,104,other,-1.5397560000000001
+Tanner Muse,100,S,Clemson,0,0.0,2020,100,ACC,-3.02913
+Dalton Keene,101,TE,Virginia Tech,0,0.0,2020,96,ACC,-3.018504
+Alex Highsmith,102,LB,Charlotte,11,5.5,2020,92,other,2.492122
+Davion Taylor,103,LB,Colorado,3,1.5,2020,88,Pac-12,-1.497252
+Terrell Burgess ,104,S,Utah,1,0.5,2020,86,Pac-12,-2.491939
+Adam Trautman,105,TE,Dayton,4,2.0,2020,84,other,-0.9866259999999998
+Tyre Phillips,106,T,Mississippi St.,6,3.0,2020,82,SEC,0.018686999999999898
+Akeem Davis-Gaither,107,LB,Appalachian St.,3,1.5,2020,80,other,-1.476
+Saahdiq Charles,108,T,LSU,2,1.0,2020,78,SEC,-1.9706869999999999
+John Simpson,109,G,Clemson,8,4.0,2020,76,ACC,1.0346260000000003
+Darnay Holmes,110,CB,UCLA,5,2.5,2020,74,Pac-12,-0.46006100000000005
+Solomon Kindley,111,G,Georgia,6,3.0,2020,72,SEC,0.04525200000000007
+Joshua Kelley,112,RB,UCLA,4,2.0,2020,70,Pac-12,-0.9494349999999998
+Troy Pride Jr.,113,CB,Notre Dame,3,1.5,2020,68,ACC,-1.4441220000000001
+Leki Fotu,114,DT,Utah,3,1.5,2020,66,Pac-12,-1.438809
+Harrison Bryant,115,TE,Florida Atlantic,4,2.0,2020,64,other,-0.9334959999999999
+Ben Bartch,116,G,Saint John's (MN),4,2.0,2020,62,other,-0.9281829999999998
+D.J. Wonnum,117,DE,South Carolina,9,4.5,2020,60,SEC,1.57713
+Albert Okwuegbunam,118,TE,Missouri,4,2.0,2020,58,SEC,-0.917557
+Mykal Walker,119,LB,Fresno St.,5,2.5,2020,56,other,-0.41224399999999983
+La'Mical Perine,120,RB,Florida,2,1.0,2020,54,SEC,-1.9069310000000002
+Logan Stenberg,121,G,Kentucky,0,0.0,2020,52,SEC,-2.901618
+Jacob Eason,122,QB,Washington,0,0.0,2020,50,Pac-12,-2.896305
+Reggie Robinson II,123,CB,Tulsa,0,0.0,2020,49,other,-2.8936485
+Anthony McFarland Jr.,124,RB,Maryland,1,0.5,2020,48,Big Ten,-2.390992
+James Morgan,125,QB,Florida International,0,0.0,2020,47,other,-2.8883354999999997
+Charlie Heck,126,T,North Carolina,6,3.0,2020,46,ACC,0.1143209999999999
+K'Von Wallace,127,S,Clemson,3,1.5,2020,45,ACC,-1.3830225
+Gabriel Davis,128,WR,Central Florida,11,5.5,2020,44,other,2.619634
+Cameron Clark,129,T,Charlotte,0,0.0,2020,43,other,-2.8777095
+James Lynch,130,DT,Baylor,3,1.5,2020,42,Big 12,-1.3750529999999999
+Rashard Lawrence,131,DT,LSU,4,2.0,2020,41,SEC,-0.8723964999999998
+Troy Dye,132,LB,Oregon,4,2.0,2020,40,Pac-12,-0.8697399999999997
+Colby Parkinson,133,TE,Stanford,0,0.0,2020,40,Pac-12,-2.8697399999999997
+Jaylinn Hawkins,134,S,California,3,1.5,2020,39,Pac-12,-1.3670835000000001
+Kevin Dotson,135,G,Louisiana,5,2.5,2020,39,other,-0.3670835000000001
+Brycen Hopkins,136,TE,Purdue,0,0.0,2020,38,Big Ten,-2.864427
+Josiah Scott,137,CB,Michigan St.,1,0.5,2020,38,Big Ten,-2.364427
+L'Jarius Sneed,138,S,Louisiana Tech,8,4.0,2020,37,other,1.1382295
+Amik Robertson,139,CB,Louisiana Tech,1,0.5,2020,37,other,-2.3617705
+Shaquille Quarterman,140,LB,Miami (FL),2,1.0,2020,36,ACC,-1.859114
+John Reid,141,CB,Penn St.,2,1.0,2020,36,Big Ten,-1.859114
+Antonio Gandy-Golden,142,WR,Liberty,0,0.0,2020,35,other,-2.8564575
+Ben Bredeson,143,G,Michigan,2,1.0,2020,35,Big Ten,-1.8564574999999999
+DeeJay Dallas,144,RB,Miami (FL),4,2.0,2020,34,ACC,-0.8538009999999998
+Jack Driscoll,145,G,Auburn,7,3.5,2020,34,SEC,0.6461990000000002
+Tyler Biadasz,146,C,Wisconsin,9,4.5,2020,33,Big Ten,1.6488555000000003
+Khalid Kareem,147,DE,Notre Dame,2,1.0,2020,33,ACC,-1.8511444999999997
+Alton Robinson,148,DE,Syracuse,3,1.5,2020,32,ACC,-1.3484880000000001
+Danny Pinter,149,G,Ball St.,3,1.5,2020,32,other,-1.3484880000000001
+Shane Lemieux,150,G,Oregon,3,1.5,2020,31,Pac-12,-1.3458315
+Joe Reed,151,WR,Virginia,0,0.0,2020,31,ACC,-2.8458315
+Kenny Robinson Jr.,152,S,West Virginia,1,0.5,2020,31,Big 12,-2.3458315
+Colton McKivitz,153,T,West Virginia,2,1.0,2020,30,Big 12,-1.843175
+Jason Strowbridge,154,DE,North Carolina,1,0.5,2020,30,ACC,-2.343175
+Trevis Gipson,155,DE,Tulsa,5,2.5,2020,29,other,-0.34051849999999995
+Keith Ismael,156,C,San Diego St.,2,1.0,2020,29,other,-1.8405185
+Daniel Thomas,157,S,Auburn,2,1.0,2020,29,SEC,-1.8405185
+Bryce Hall,158,CB,Virginia,7,3.5,2020,28,ACC,0.6621380000000001
+Justin Rohrwasser,159,K,Marshall,0,0.0,2020,28,other,-2.837862
+Nick Harris,160,C,Washington,2,1.0,2020,27,Pac-12,-1.8352054999999998
+Tyler Johnson,161,WR,Minnesota,5,2.5,2020,27,Big Ten,-0.3352054999999998
+Khaleke Hudson,162,LB,Michigan,3,1.5,2020,27,Big Ten,-1.3352054999999998
+Kindle Vildor,163,CB,Georgia Southern,5,2.5,2020,26,other,-0.33254899999999976
+Curtis Weaver,164,DE,Boise St.,0,0.0,2020,26,other,-2.8325489999999998
+Collin Johnson,165,WR,Texas,3,1.5,2020,25,Big 12,-1.3298925000000001
+Quintez Cephus,166,WR,Wisconsin,5,2.5,2020,25,Big Ten,-0.32989250000000014
+Jake Fromm,167,QB,Georgia,1,0.5,2020,25,SEC,-2.3298925
+John Hightower,168,WR,Boise St.,1,0.5,2020,24,other,-2.327236
+Harrison Hand,169,CB,Temple,2,1.0,2020,24,other,-1.827236
+Broderick Washington Jr.,170,DT,Texas Tech,3,1.5,2020,23,Big 12,-1.3245795
+Isaiah Coulter,171,WR,Rhode Island,0,0.0,2020,23,other,-2.8245795
+Jason Huntley,172,RB,New Mexico St.,0,0.0,2020,23,other,-2.8245795
+Darnell Mooney,173,WR,Tulane,15,7.5,2020,22,other,4.678077
+Larrell Murchison,174,DT,North Carolina St.,4,2.0,2020,22,ACC,-0.821923
+Kamal Martin,175,LB,Minnesota,4,2.0,2020,21,Big Ten,-0.8192664999999999
+K.J. Osborn,176,WR,Miami (FL),5,2.5,2020,21,ACC,-0.3192664999999999
+Michael Danna,177,DE,Michigan,4,2.0,2020,21,Big Ten,-0.8192664999999999
+Justin Strnad,178,LB,Wake Forest,3,1.5,2020,20,ACC,-1.3166099999999998
+Bradlee Anae,179,DE,Utah,1,0.5,2020,20,Pac-12,-2.31661
+Hakeem Adeniji,180,T,Kansas,7,3.5,2020,19,Big 12,0.6860465000000002
+Netane Muti,181,G,Fresno St.,3,1.5,2020,19,other,-1.3139534999999998
+Michael Onwenu,182,G,Michigan,12,6.0,2020,19,Big Ten,3.1860465000000002
+Cam Brown,183,LB,Penn St.,2,1.0,2020,18,Big Ten,-1.8112969999999997
+Bravvion Roy,184,DT,Baylor,6,3.0,2020,18,Big 12,0.1887030000000003
+Blake Ferguson,185,LS,LSU,2,1.0,2020,17,SEC,-1.8086405
+Alohi Gilman,186,S,Notre Dame,2,1.0,2020,17,ACC,-1.8086405
+Donovan Peoples-Jones,187,WR,Michigan,8,4.0,2020,17,Big Ten,1.1913595
+Tyler Bass,188,K,Georgia Southern,6,3.0,2020,16,other,0.19401599999999997
+Jake Luton,189,QB,Oregon St.,2,1.0,2020,16,Pac-12,-1.805984
+Charlie Woerner,190,TE,Georgia,0,0.0,2020,15,SEC,-2.8033275
+Braden Mann,191,P,Texas A&M,4,2.0,2020,15,SEC,-0.8033275
+Jon Runyan,192,T,Michigan,9,4.5,2020,15,Big Ten,1.6966725
+Robert Windsor,193,DT,Penn St.,0,0.0,2020,14,Big Ten,-2.800671
+Khalil Davis,194,DT,Nebraska,0,0.0,2020,14,Big Ten,-2.800671
+Justin Herron,195,T,Wake Forest,6,3.0,2020,13,ACC,0.20198550000000015
+Shaun Bradley,196,LB,Temple,2,1.0,2020,13,other,-1.7980144999999998
+John Penisini,197,DT,Utah,6,3.0,2020,13,Pac-12,0.20198550000000015
+Antoine Brooks Jr.,198,S,Maryland,1,0.5,2020,12,Big Ten,-2.295358
+Jordan Fuller,199,S,Ohio St.,10,5.0,2020,12,Big Ten,2.204642
+Quez Watkins,200,WR,Southern Miss,8,4.0,2020,11,other,1.2072985000000003
+James Proche,201,WR,SMU,2,1.0,2020,11,other,-1.7927014999999997
+Evan Weaver,202,LB,California,0,0.0,2020,11,Pac-12,-2.7927014999999997
+Blake Brandel,203,T,Oregon St.,1,0.5,2020,10,Pac-12,-2.290045
+Cassh Maluia,204,LB,Wyoming,1,0.5,2020,10,other,-2.290045
+Josh Metellus,205,S,Michigan,2,1.0,2020,9,Big Ten,-1.7873885
+Tyler Davis,206,TE,Georgia Tech,0,0.0,2020,9,ACC,-2.7873885
+Isaiah Hodgins,207,WR,Oregon St.,0,0.0,2020,9,Pac-12,-2.7873885
+Jake Hanson,208,C,Oregon,0,0.0,2020,8,Pac-12,-2.784732
+Simon Stepaniak,209,T,Indiana,0,0.0,2020,8,Big Ten,-2.784732
+Prince Tega Wanogho,210,T,Auburn,0,0.0,2020,7,SEC,-2.7820755
+Isaiah Rodgers,211,CB,Massachusetts,4,2.0,2020,7,other,-0.7820754999999999
+Dezmon Patmon,212,WR,Washington St.,0,0.0,2020,7,Pac-12,-2.7820755
+Jordan Glasgow,213,LB,Michigan,2,1.0,2020,6,Big Ten,-1.7794189999999999
+Freddie Swain,214,WR,Florida,5,2.5,2020,6,SEC,-0.27941899999999986
+Markus Bailey,215,LB,Purdue,4,2.0,2020,5,Big Ten,-0.7767624999999998
+Kamren Curl,216,S,Arkansas,11,5.5,2020,5,SEC,2.7232375
+Jauan Jennings,217,WR,Tennessee,2,1.0,2020,5,SEC,-1.7767624999999998
+Carter Coughlin,218,LB,Minnesota,3,1.5,2020,4,Big Ten,-1.2741059999999997
+Geno Stone,219,S,Iowa,2,1.0,2020,4,Big Ten,-1.7741059999999997
+K.J. Hill,220,WR,Ohio St.,1,0.5,2020,3,Big Ten,-2.2714495
+Stantley Thomas-Oliver,221,CB,Florida International,2,1.0,2020,3,other,-1.7714495000000001
+Eno Benjamin,222,RB,Arizona St.,1,0.5,2020,3,Pac-12,-2.2714495
+Chris Claybrooks,223,CB,Memphis,4,2.0,2020,2,other,-0.7687930000000001
+Cole McDonald,224,QB,Hawaii,0,0.0,2020,2,other,-2.768793
+Kenny Willekes,225,DE,Michigan St.,1,0.5,2020,1,Big Ten,-2.2661365
+Arlington Hambright,226,T,Colorado,1,0.5,2020,1,Pac-12,-2.2661365
+Lachavious Simmons,227,G,Tennessee St.,0,0.0,2020,1,other,-2.7661365
+Sterling Hofrichter,228,P,Syracuse,1,0.5,2020,1,ACC,-2.2661365
+James Smith-Williams,229,DE,North Carolina St.,4,2.0,2020,1,ACC,-0.7661365
+Dustin Woodard,230,C,Memphis,0,0.0,2020,1,other,-2.7661365
+Ben DiNucci,231,QB,James Madison,1,0.5,2020,1,other,-2.2661365
+Carlos Davis,232,DT,Nebraska,1,0.5,2020,1,Big Ten,-2.2661365
+Casey Toohill,233,DE,Stanford,4,2.0,2020,1,Pac-12,-0.7661365
+Clay Johnston,234,LB,Baylor,0,0.0,2020,1,Big 12,-2.7661365
+Jashon Cornell,235,DT,Ohio St.,0,0.0,2020,1,Big Ten,-2.7661365
+Vernon Scott,236,S,TCU,1,0.5,2020,1,Big 12,-2.2661365
+Thakarius Keyes,237,CB,Tulane,1,0.5,2020,1,other,-2.2661365
+T.J. Brunson,238,LB,South Carolina,0,0.0,2020,1,SEC,-2.7661365
+Dane Jackson,239,CB,Pittsburgh,4,2.0,2020,1,ACC,-0.7661365
+Tommy Stevens,240,QB,Mississippi St.,0,0.0,2020,1,SEC,-2.7661365
+Chapelle Russell,241,LB,Temple,2,1.0,2020,1,other,-1.7661365
+Jonathan Garvin,242,DE,Miami (FL),2,1.0,2020,1,ACC,-1.7661365
+Chris Jackson,243,S,Marshall,2,1.0,2020,1,other,-1.7661365
+Nate Stanley,244,QB,Iowa,0,0.0,2020,1,Big Ten,-2.7661365
+Raymond Calais,245,RB,Louisiana,0,0.0,2020,1,other,-2.7661365
+Malcolm Perry,246,RB,Navy,1,0.5,2020,1,other,-2.2661365
+Chris Williamson,247,CB,Minnesota,0,0.0,2020,1,Big Ten,-2.7661365
+Sam Sloman,248,K,Miami (OH),0,0.0,2020,1,other,-2.7661365
+Brian Cole II,249,S,Mississippi St.,0,0.0,2020,1,SEC,-2.7661365
+Tremayne Anchrum,250,G,Clemson,1,0.5,2020,1,ACC,-2.2661365
+Stephen Sullivan,251,TE,LSU,0,0.0,2020,1,SEC,-2.7661365
+Tyrie Cleveland,252,WR,Florida,0,0.0,2020,1,SEC,-2.7661365
+Kyle Hinton,253,G,Washburn,0,0.0,2020,1,other,-2.7661365
+Derrek Tuszka,254,LB,North Dakota St.,2,1.0,2020,1,other,-1.7661365
+Tae Crowder,255,LB,Georgia,13,6.5,2020,1,SEC,3.7338635
+Kyler Murray,1,QB,Oklahoma,44,14.666666666666666,2019,3000,Big 12,3.9336866666666666
+Nick Bosa,2,DE,Ohio St.,24,8.0,2019,2600,Big Ten,-1.6703799999999998
+Quinnen Williams,3,DT,Alabama,16,5.333333333333333,2019,2200,SEC,-3.274446666666667
+Clelin Ferrell,4,DE,Clemson,11,3.6666666666666665,2019,1800,ACC,-3.8785133333333337
+Devin White,5,LB,LSU,32,10.666666666666666,2019,1700,SEC,3.3871366666666667
+Daniel Jones,6,QB,Duke,24,8.0,2019,1600,ACC,0.9861199999999997
+Josh Allen,7,LB,Kentucky,15,5.0,2019,1500,SEC,-1.7482299999999995
+T.J. Hockenson,8,TE,Iowa,13,4.333333333333333,2019,1400,Big Ten,-2.1492466666666674
+Ed Oliver,9,DT,Houston,23,7.666666666666667,2019,1350,other,1.316911666666667
+Devin Bush Jr.,10,LB,Michigan,17,5.666666666666667,2019,1300,Big Ten,-0.5502633333333327
+Jonah Williams,11,G,Alabama,13,4.333333333333333,2019,1250,SEC,-1.750771666666667
+Rashan Gary,12,LB,Michigan,12,4.0,2019,1200,Big Ten,-1.9512800000000006
+Christian Wilkins,13,DT,Clemson,21,7.0,2019,1150,ACC,1.1815449999999998
+Chris Lindstrom,14,G,Boston Col.,15,5.0,2019,1100,ACC,-0.6856299999999997
+Dwayne Haskins,15,QB,Ohio St.,4,1.3333333333333333,2019,1050,Big Ten,-4.219471666666666
+Brian Burns,16,DE,Florida St.,19,6.333333333333333,2019,1000,ACC,0.9133533333333332
+Dexter Lawrence,17,DT,Clemson,19,6.333333333333333,2019,950,ACC,1.0461783333333328
+Garrett Bradbury,18,C,North Carolina St.,19,6.333333333333333,2019,900,ACC,1.1790033333333332
+Jeffery Simmons,19,DT,Mississippi St.,24,8.0,2019,875,SEC,2.9120825000000004
+Noah Fant,20,TE,Iowa,14,4.666666666666667,2019,850,Big Ten,-0.3548383333333325
+Darnell Savage Jr.,21,S,Maryland,15,5.0,2019,800,Big Ten,0.11132000000000009
+Andre Dillard,22,T,Washington St.,6,2.0,2019,780,Pac-12,-2.8355499999999996
+Tytus Howard,23,T,Alabama St.,17,5.666666666666667,2019,760,other,0.8842466666666668
+Josh Jacobs,24,RB,Alabama,22,7.333333333333333,2019,740,SEC,2.6040433333333333
+Marquise Brown,25,WR,Oklahoma,24,8.0,2019,720,Big 12,3.3238400000000006
+Montez Sweat,26,DE,Mississippi St.,19,6.333333333333333,2019,700,SEC,1.710303333333333
+Johnathan Abram,27,S,Mississippi St.,9,3.0,2019,680,SEC,-1.5698999999999996
+Jerry Tillery,28,DT,Notre Dame,14,4.666666666666667,2019,660,ACC,0.1498966666666668
+L.J. Collier,29,DE,TCU,8,2.6666666666666665,2019,640,Big 12,-1.7969733333333333
+Deandre Baker,30,CB,Georgia,6,2.0,2019,620,SEC,-2.4105100000000004
+Kaleb McGary,31,T,Washington,21,7.0,2019,600,Pac-12,2.64262
+N'Keal Harry,32,WR,Arizona St.,6,2.0,2019,590,Pac-12,-2.3308149999999994
+Byron Murphy,33,CB,Washington,15,5.0,2019,580,Pac-12,0.6957500000000003
+Rock Ya-Sin,34,CB,Temple,11,3.6666666666666665,2019,560,other,-0.5844533333333337
+Jawaan Taylor,35,T,Florida,19,6.333333333333333,2019,550,SEC,2.1087783333333334
+Deebo Samuel,36,WR,South Carolina,26,8.666666666666666,2019,540,SEC,4.468676666666666
+Greg Little,37,T,Mississippi,3,1.0,2019,530,SEC,-3.171425
+Cody Ford,38,T,Oklahoma,13,4.333333333333333,2019,520,Big 12,0.1884733333333335
+Sean Murphy-Bunting,39,CB,Central Michigan,12,4.0,2019,510,other,-0.11829499999999982
+Trayvon Mullen,40,CB,Clemson,10,3.3333333333333335,2019,500,ACC,-0.7583966666666666
+Dalton Risner,41,T,Kansas St.,17,5.666666666666667,2019,490,Big 12,1.6015016666666666
+Drew Lock,42,QB,Missouri,12,4.0,2019,480,SEC,-0.038599999999999746
+Jahlani Tavai,43,LB,Hawaii,10,3.3333333333333335,2019,470,other,-0.6787016666666665
+Elgton Jenkins,44,C,Mississippi St.,22,7.333333333333333,2019,460,SEC,3.347863333333333
+Joejuan Williams,45,CB,Vanderbilt,3,1.0,2019,450,SEC,-2.9589049999999997
+Greedy Williams,46,CB,LSU,7,2.3333333333333335,2019,440,SEC,-1.5990066666666665
+Marquise Blair,47,S,Utah,2,0.6666666666666666,2019,430,Pac-12,-3.2391083333333337
+Erik McCoy,48,C,Texas A&M,19,6.333333333333333,2019,420,SEC,2.454123333333333
+Ben Banogu ,49,LB,TCU,3,1.0,2019,410,Big 12,-2.852645
+Irv Smith Jr.,50,TE,Alabama,6,2.0,2019,400,SEC,-1.8260800000000001
+A.J. Brown,51,WR,Mississippi,30,10.0,2019,390,SEC,6.2004850000000005
+Drew Sample,52,TE,Washington,4,1.3333333333333333,2019,380,Pac-12,-2.4396166666666668
+Miles Sanders,53,RB,Penn St.,20,6.666666666666667,2019,370,Big Ten,2.920281666666667
+Lonnie Johnson Jr.,54,CB,Kentucky,8,2.6666666666666665,2019,360,SEC,-1.0531533333333334
+Max Scharping,55,T,Northern Illinois,16,5.333333333333333,2019,350,other,1.6400783333333333
+Mecole Hardman,56,WR,Georgia,19,6.333333333333333,2019,340,SEC,2.666643333333333
+JJ Arcega-Whiteside,57,WR,Stanford,2,0.6666666666666666,2019,330,Pac-12,-2.9734583333333333
+Trysten Hill,58,DT,Central Florida,4,1.3333333333333333,2019,320,other,-2.2802266666666666
+Parris Campbell,59,WR,Ohio St.,4,1.3333333333333333,2019,310,Big Ten,-2.253661666666667
+Nasir Adderley,60,S,Delaware,9,3.0,2019,300,other,-0.5604300000000002
+Taylor Rapp,61,S,Washington,14,4.666666666666667,2019,292,Pac-12,1.1274886666666672
+Andy Isabella,62,WR,Massachusetts,4,1.3333333333333333,2019,284,other,-2.184592666666667
+Juan Thornhill,63,S,Virginia,13,4.333333333333333,2019,276,ACC,0.836659333333333
+D.K. Metcalf,64,WR,Mississippi,29,9.666666666666666,2019,270,SEC,6.185931666666666
+Zach Allen,65,DE,Boston Col.,12,4.0,2019,265,ACC,0.5325475000000002
+Diontae Johnson,66,WR,Toledo,22,7.333333333333333,2019,260,other,3.879163333333333
+Jalen Hurd,67,WR,Baylor,0,0.0,2019,255,Big 12,-3.4408875
+Jachai Polite,68,LB,Florida,1,0.3333333333333333,2019,250,SEC,-3.0942716666666663
+Josh Oliver,69,TE,San Jose St.,1,0.3333333333333333,2019,245,other,-3.0809891666666664
+Darrell Henderson,70,RB,Memphis,11,3.6666666666666665,2019,240,other,0.26562666666666646
+Dre'Mont Jones,71,DT,Ohio St.,12,4.0,2019,235,Big Ten,0.6122424999999998
+Germaine Pratt,72,LB,North Carolina St.,19,6.333333333333333,2019,230,ACC,2.958858333333333
+David Montgomery,73,RB,Iowa St.,21,7.0,2019,225,Big 12,3.6388075
+Devin Singletary,74,RB,Florida Atlantic,20,6.666666666666667,2019,220,other,3.3187566666666672
+Jace Sternberger,75,TE,Texas A&M,1,0.3333333333333333,2019,215,SEC,-3.0012941666666664
+Terry McLaurin,76,WR,Ohio St.,23,7.666666666666667,2019,210,Big Ten,4.345321666666667
+Chase Winovich,77,DE,Michigan,10,3.3333333333333335,2019,205,Big Ten,0.025270833333333353
+Michael Deiter,78,G,Wisconsin,10,3.3333333333333335,2019,200,Big Ten,0.03855333333333366
+David Long,79,CB,Michigan,4,1.3333333333333333,2019,195,Big Ten,-1.9481641666666667
+Sione Takitaki,80,LB,BYU,12,4.0,2019,190,other,0.7317849999999999
+Will Harris,81,S,Boston Col.,8,2.6666666666666665,2019,185,ACC,-0.5882658333333333
+Nate Davis,82,G,Charlotte,19,6.333333333333333,2019,180,other,3.091683333333333
+Justin Layne,83,CB,Michigan St.,3,1.0,2019,175,Big Ten,-2.2283675
+Khalen Saunders,84,DT,Western Illinois,4,1.3333333333333333,2019,170,other,-1.8817516666666665
+Jaylon Ferguson,85,DE,Louisiana Tech,8,2.6666666666666665,2019,165,other,-0.5351358333333334
+Kahale Warring,86,TE,San Diego St.,0,0.0,2019,160,other,-3.18852
+Damien Harris,87,RB,Alabama,13,4.333333333333333,2019,155,SEC,1.1580958333333333
+Cody Barton,88,LB,Utah,6,2.0,2019,150,Pac-12,-1.1619549999999998
+Bobby Okereke,89,LB,Stanford,14,4.666666666666667,2019,145,Pac-12,1.517994166666667
+Connor McGovern,90,G,Penn St.,7,2.3333333333333335,2019,140,Big Ten,-0.8020566666666666
+Trey Pipkins,91,T,Sioux Falls,8,2.6666666666666665,2019,136,other,-0.45809733333333336
+Chuma Edoga,92,T,USC,5,1.6666666666666667,2019,132,Pac-12,-1.4474713333333333
+Miles Boykin,93,WR,Notre Dame,6,2.0,2019,128,ACC,-1.1035119999999998
+Jamel Dean,94,CB,Auburn,9,3.0,2019,124,SEC,-0.09288600000000002
+Oshane Ximines,95,DE,Old Dominion,5,1.6666666666666667,2019,120,other,-1.415593333333333
+Dawson Knox,96,TE,Mississippi,12,4.0,2019,116,SEC,0.928366
+Bobby Evans,97,T,Oklahoma,5,1.6666666666666667,2019,112,Big 12,-1.3943413333333334
+Quincy Williams,98,S,Murray St.,8,2.6666666666666665,2019,108,other,-0.3837153333333334
+Mike Edwards,99,S,Kentucky,8,2.6666666666666665,2019,104,SEC,-0.3730893333333336
+Will Grier,100,QB,West Virginia,1,0.3333333333333333,2019,100,Big 12,-2.6957966666666664
+Yodny Cajuste,101,T,West Virginia,2,0.6666666666666666,2019,96,Big 12,-2.3518373333333336
+Alexander Mattison,102,RB,Boise St.,12,4.0,2019,92,other,0.9921220000000002
+Hakeem Butler,103,WR,Iowa St.,0,0.0,2019,88,Big 12,-2.997252
+Ryan Finley,104,QB,North Carolina St.,2,0.6666666666666666,2019,86,ACC,-2.3252723333333334
+Chauncey Gardner-Johnson,105,S,Florida,12,4.0,2019,84,SEC,1.0133740000000002
+Maxx Crosby,106,DE,East. Michigan,25,8.333333333333334,2019,82,other,5.352020333333334
+Anthony Nelson,107,DE,Iowa,6,2.0,2019,80,Big Ten,-0.976
+Julian Love,108,CB,Notre Dame,8,2.6666666666666665,2019,78,ACC,-0.30402033333333334
+Khari Willis,109,S,Michigan St.,12,4.0,2019,76,Big Ten,1.0346260000000003
+Mitch Wishnowsky,110,P,Utah,6,2.0,2019,74,Pac-12,-0.960061
+Kendall Sheffield,111,CB,Ohio St.,6,2.0,2019,72,Big Ten,-0.9547479999999999
+Bryce Love,112,RB,Stanford,0,0.0,2019,70,Pac-12,-2.949435
+Justice Hill,113,RB,Oklahoma St.,4,1.3333333333333333,2019,68,Big 12,-1.6107886666666669
+Dru Samia,114,G,Oklahoma,3,1.0,2019,66,Big 12,-1.938809
+Christian Miller,115,LB,Alabama,1,0.3333333333333333,2019,64,SEC,-2.6001626666666664
+Amani Hooker,116,S,Iowa,7,2.3333333333333335,2019,62,Big Ten,-0.5948496666666663
+Austin Bryant,117,DE,Clemson,4,1.3333333333333333,2019,60,ACC,-1.5895366666666668
+Hjalte Froholdt,118,G,Arkansas,0,0.0,2019,58,SEC,-2.917557
+Sheldrick Redwine,119,S,Miami (FL),4,1.3333333333333333,2019,56,ACC,-1.5789106666666666
+Gary Jennings Jr,120,WR,West Virginia,0,0.0,2019,54,Big 12,-2.906931
+Trevon Wesco,121,TE,West Virginia,0,0.0,2019,52,Big 12,-2.901618
+Benny Snell Jr.,122,RB,Kentucky,7,2.3333333333333335,2019,50,SEC,-0.5629716666666664
+Ben Powers,123,G,Oklahoma,8,2.6666666666666665,2019,49,Big 12,-0.22698183333333333
+Phil Haynes,124,G,Wake Forest,1,0.3333333333333333,2019,48,ACC,-2.5576586666666663
+Renell Wren,125,DT,Arizona St.,2,0.6666666666666666,2019,47,Pac-12,-2.221668833333333
+Riley Ridley,126,WR,Georgia,1,0.3333333333333333,2019,46,SEC,-2.5523456666666666
+Iman Marshall,127,CB,USC,0,0.0,2019,45,Pac-12,-2.8830225
+Tony Pollard,128,RB,Memphis,15,5.0,2019,44,other,2.119634
+Isaiah Johnson,129,CB,Houston,1,0.3333333333333333,2019,43,other,-2.5443761666666664
+Drue Tranquill,130,LB,Notre Dame,6,2.0,2019,42,ACC,-0.8750529999999999
+Wes Martin,131,G,Indiana,6,2.0,2019,41,Big Ten,-0.8723964999999998
+Ugo Amadi,132,S,Oregon,6,2.0,2019,40,Pac-12,-0.8697399999999997
+Jarrett Stidham,133,QB,Auburn,1,0.3333333333333333,2019,40,SEC,-2.5364066666666663
+Greg Gaines,134,DT,Washington,9,3.0,2019,39,Pac-12,0.13291649999999988
+John Cominsky,135,DE,Charleston (WV),3,1.0,2019,39,other,-1.8670835000000001
+Michael Jordan,136,G,Ohio St.,11,3.6666666666666665,2019,38,Big Ten,0.8022396666666665
+Foster Moreau,137,TE,LSU,5,1.6666666666666667,2019,38,SEC,-1.1977603333333333
+Shareef Miller,138,DE,Penn St.,0,0.0,2019,37,Big Ten,-2.8617705
+Deionte Thompson,139,S,Alabama,4,1.3333333333333333,2019,37,SEC,-1.5284371666666667
+Ryquell Armstead,140,RB,Temple,2,0.6666666666666666,2019,36,other,-2.1924473333333334
+Zach Gentry,141,TE,Michigan,1,0.3333333333333333,2019,36,Big Ten,-2.5257806666666665
+Ben Burr-Kirven,142,LB,Washington,2,0.6666666666666666,2019,35,Pac-12,-2.1897908333333334
+Ryan Connelly,143,LB,Wisconsin,4,1.3333333333333333,2019,35,Big Ten,-1.5231241666666666
+Marvell Tell III,144,S,USC,1,0.3333333333333333,2019,34,Pac-12,-2.5204676666666663
+Matt Gay,145,K,Utah,10,3.3333333333333335,2019,34,Pac-12,0.47953233333333367
+Amani Oruwariye,146,CB,Penn St.,10,3.3333333333333335,2019,33,Big Ten,0.48218883333333373
+Vosean Joseph,147,LB,Florida,0,0.0,2019,33,SEC,-2.8511444999999997
+Dre Greenlaw,148,LB,Arkansas,15,5.0,2019,32,SEC,2.151512
+Hunter Renfrow,149,WR,Clemson,17,5.666666666666667,2019,32,ACC,2.818178666666667
+Kingsley Keke,150,DT,Texas A&M,9,3.0,2019,31,SEC,0.15416849999999993
+Andrew Van Ginkel,151,LB,Wisconsin,17,5.666666666666667,2019,31,Big Ten,2.820835166666667
+Qadree Ollison,152,RB,Pittsburgh,1,0.3333333333333333,2019,31,ACC,-2.5124981666666666
+Ross Pierschbacher,153,G,Alabama,0,0.0,2019,30,SEC,-2.843175
+Jordan Scarlett,154,RB,Florida,0,0.0,2019,30,SEC,-2.843175
+Mack Wilson,155,LB,Alabama,13,4.333333333333333,2019,29,SEC,1.492814833333333
+Justin Hollins,156,LB,Oregon,4,1.3333333333333333,2019,29,Pac-12,-1.5071851666666667
+Blake Cashman,157,LB,Minnesota,4,1.3333333333333333,2019,29,Big Ten,-1.5071851666666667
+Michael Jackson,158,CB,Miami (FL),0,0.0,2019,28,ACC,-2.837862
+Byron Cowart,159,DT,Maryland,9,3.0,2019,28,Big Ten,0.16213800000000012
+Daylon Mack,160,DT,Texas A&M,0,0.0,2019,27,SEC,-2.8352055
+Charles Omenihu,161,DE,Texas,4,1.3333333333333333,2019,27,Big 12,-1.5018721666666666
+Cameron Smith,162,LB,USC,0,0.0,2019,27,Pac-12,-2.8352055
+Jake Bailey,163,P,Stanford,6,2.0,2019,26,Pac-12,-0.8325489999999998
+E.J. Speed,164,LB,Tarleton St.,3,1.0,2019,26,other,-1.8325489999999998
+Joe Jackson,165,DE,Miami (FL),1,0.3333333333333333,2019,25,ACC,-2.4965591666666667
+Easton Stick,166,QB,North Dakota St.,0,0.0,2019,25,other,-2.8298925
+Clayton Thorson,167,QB,Northwestern,0,0.0,2019,25,Big Ten,-2.8298925
+D'Andre Walker,168,LB,Georgia,0,0.0,2019,24,SEC,-2.827236
+David Edwards,169,T,Wisconsin,21,7.0,2019,24,Big Ten,4.172764
+Austin Seibert,170,K,Oklahoma,4,1.3333333333333333,2019,23,Big 12,-1.4912461666666668
+Darius Slayton,171,WR,Auburn,14,4.666666666666667,2019,23,SEC,1.842087166666667
+Jordan Miller,172,CB,Washington,1,0.3333333333333333,2019,23,Pac-12,-2.4912461666666665
+Cole Holcomb,173,LB,North Carolina,19,6.333333333333333,2019,22,ACC,3.511410333333333
+KeeSean Johnson,174,WR,Fresno St.,4,1.3333333333333333,2019,22,other,-1.4885896666666667
+Sutton Smith,175,DE,Northern Illinois,0,0.0,2019,21,other,-2.8192665
+Kaden Smith,176,TE,Stanford,3,1.0,2019,21,Pac-12,-1.8192665
+Saquan Hampton,177,S,Rutgers,0,0.0,2019,21,Big Ten,-2.8192665
+Gardner Minshew II,178,QB,Washington St.,18,6.0,2019,20,Pac-12,3.18339
+Lamont Gaillard,179,C,Georgia,2,0.6666666666666666,2019,20,SEC,-2.1499433333333333
+Corey Ballentine,180,CB,Washburn,2,0.6666666666666666,2019,19,other,-2.1472868333333333
+Jaquan Johnson,181,CB,Miami (FL),3,1.0,2019,19,ACC,-1.8139534999999998
+Trayveon Williams,182,RB,Texas A&M,1,0.3333333333333333,2019,19,SEC,-2.4806201666666663
+Justin Skule,183,T,Vanderbilt,8,2.6666666666666665,2019,18,SEC,-0.1446303333333332
+Travis Fulgham,184,WR,Old Dominion,4,1.3333333333333333,2019,18,other,-1.4779636666666665
+Ka'dar Hollman,185,CB,Toledo,1,0.3333333333333333,2019,17,other,-2.4753071666666666
+Ty Johnson,186,RB,Maryland,8,2.6666666666666665,2019,17,Big Ten,-0.14197383333333358
+Juwann Winfree,187,WR,Colorado,1,0.3333333333333333,2019,17,Pac-12,-2.4753071666666666
+David Long,188,LB,West Virginia,9,3.0,2019,16,Big 12,0.19401599999999997
+Drew Forbes,189,T,SE Missouri St.,0,0.0,2019,16,other,-2.805984
+Armon Watts,190,DT,Arkansas,7,2.3333333333333335,2019,15,SEC,-0.4699941666666665
+Marcus Epps,191,S,Wyoming,5,1.6666666666666667,2019,15,other,-1.1366608333333332
+Isaiah Buggs,192,DT,Alabama,5,1.6666666666666667,2019,15,SEC,-1.1366608333333332
+Oli Udoh,193,T,Elon,7,2.3333333333333335,2019,14,other,-0.46733766666666643
+Dexter Williams,194,RB,Notre Dame,0,0.0,2019,14,ACC,-2.800671
+Xavier Crawford,195,CB,Central Michigan,1,0.3333333333333333,2019,13,other,-2.4646811666666664
+Blessuan Austin,196,CB,Rutgers,6,2.0,2019,13,Big Ten,-0.7980144999999998
+Trace McSorley,197,QB,Penn St.,0,0.0,2019,13,Big Ten,-2.7980145
+Tim Harris,198,CB,Virginia,0,0.0,2019,12,ACC,-2.795358
+Gerri Green,199,DE,Mississippi St.,0,0.0,2019,12,SEC,-2.795358
+Emeke Egbule,200,LB,Houston,2,0.6666666666666666,2019,11,other,-2.126034833333333
+Rashad Fenton,201,CB,South Carolina,6,2.0,2019,11,SEC,-0.7927014999999997
+Isaiah Prince,202,T,Ohio St.,4,1.3333333333333333,2019,11,Big Ten,-1.4593681666666665
+Marcus Green,203,WR,La-Monroe,0,0.0,2019,10,other,-2.790045
+Travis Homer,204,RB,Miami (FL),6,2.0,2019,10,ACC,-0.7900450000000001
+Duke Shelley,205,CB,Kansas St.,3,1.0,2019,9,Big 12,-1.7873885
+Kelvin Harmon,206,WR,North Carolina St.,3,1.0,2019,9,ACC,-1.7873885
+Ulysees Gilbert,207,LB,Akron,2,0.6666666666666666,2019,9,other,-2.1207218333333335
+Scott Miller,208,WR,Bowling Green,8,2.6666666666666665,2019,8,other,-0.11806533333333347
+Demarcus Christmas,209,DT,Florida St.,0,0.0,2019,8,ACC,-2.784732
+Deshaun Davis,210,LB,Auburn,0,0.0,2019,7,SEC,-2.7820755
+Rodney Anderson,211,RB,Oklahoma,0,0.0,2019,7,Big 12,-2.7820755
+Dennis Daley,212,T,South Carolina,9,3.0,2019,7,SEC,0.21792450000000008
+Donovan Wilson,213,S,Texas A&M,6,2.0,2019,6,SEC,-0.7794189999999999
+Darwin Thompson,214,RB,Utah St.,2,0.6666666666666666,2019,6,other,-2.1127523333333333
+Terry Beckner,215,DT,Missouri,0,0.0,2019,5,SEC,-2.7767625
+Nick Allegretti,216,G,Illinois,7,2.3333333333333335,2019,5,Big Ten,-0.4434291666666663
+Kris Boyd,217,CB,Texas,5,1.6666666666666667,2019,5,Big 12,-1.110095833333333
+Mike Weber,218,RB,Ohio St.,0,0.0,2019,4,Big Ten,-2.7741059999999997
+Derwin Gray,219,T,Maryland,0,0.0,2019,4,Big Ten,-2.7741059999999997
+Cullen Gillaspia,220,RB,Texas A&M,0,0.0,2019,3,SEC,-2.7714495
+Donnie Lewis Jr.,221,CB,Tulane,0,0.0,2019,3,other,-2.7714495
+Kerrith Whyte Jr,222,RB,Florida Atlantic,1,0.3333333333333333,2019,3,other,-2.4381161666666666
+Jordan Brown,223,CB,South Dakota St.,0,0.0,2019,2,other,-2.768793
+Isaac Nauta,224,TE,Georgia,0,0.0,2019,2,SEC,-2.768793
+Darryl Johnson,225,DE,North Carolina A&T,3,1.0,2019,1,other,-1.7661365
+Ty Summers,226,LB,TCU,4,1.3333333333333333,2019,1,Big 12,-1.4328031666666667
+Jimmy Moreland,227,CB,James Madison,5,1.6666666666666667,2019,1,other,-1.0994698333333333
+Tommy Sweeney,228,TE,Boston Col.,1,0.3333333333333333,2019,1,ACC,-2.4328031666666665
+P.J. Johnson,229,DE,Arizona,0,0.0,2019,1,Pac-12,-2.7661365
+Quinton Bell,230,DE,Prairie View A&M,0,0.0,2019,1,other,-2.7661365
+Alizé Mack,231,TE,Notre Dame,0,0.0,2019,1,ACC,-2.7661365
+George Asafo-Adjei,232,T,Kentucky,0,0.0,2019,1,SEC,-2.7661365
+Chandler Cox,233,RB,Auburn,0,0.0,2019,1,SEC,-2.7661365
+Myles Gaskin,234,RB,Washington,13,4.333333333333333,2019,1,Pac-12,1.567196833333333
+Dontavius Russell,235,DT,Auburn,0,0.0,2019,1,SEC,-2.7661365
+John Ursua,236,WR,Hawaii,0,0.0,2019,1,other,-2.7661365
+Terry Godwin,237,WR,Georgia,0,0.0,2019,1,SEC,-2.7661365
+Stephen Denmark,238,CB,Valdosta St.,0,0.0,2019,1,other,-2.7661365
+Dillon Mitchell,239,WR,Oregon,0,0.0,2019,1,Pac-12,-2.7661365
+Jackson Barton,240,T,Utah,0,0.0,2019,1,Pac-12,-2.7661365
+Jalen Jelks,241,DE,Oregon,0,0.0,2019,1,Pac-12,-2.7661365
+Cortez Broughton,242,DT,Cincinnati,1,0.3333333333333333,2019,1,other,-2.4328031666666665
+Nick Scott,243,S,Penn St.,3,1.0,2019,1,Big Ten,-1.7661365
+Kaden Elliss,244,LB,Idaho,3,1.0,2019,1,other,-1.7661365
+Chris Slayton,245,DT,Syracuse,0,0.0,2019,1,ACC,-2.7661365
+Javon Patterson,246,C,Mississippi,0,0.0,2019,1,SEC,-2.7661365
+Olabisi Johnson,247,WR,Colorado St.,5,1.6666666666666667,2019,1,other,-1.0994698333333333
+Joshua Miles,248,T,Morgan St.,2,0.6666666666666666,2019,1,other,-2.0994698333333335
+Michael Dogbe,249,DE,Temple,2,0.6666666666666666,2019,1,other,-2.0994698333333335
+Austin Cutting,250,LS,Air Force,1,0.3333333333333333,2019,1,other,-2.4328031666666665
+Dakota Allen,251,LB,Texas Tech,2,0.6666666666666666,2019,1,Big 12,-2.0994698333333335
+Ken Webster,252,CB,Mississippi,3,1.0,2019,1,SEC,-1.7661365
+Jordan Brailford,253,DE,Oklahoma St.,1,0.3333333333333333,2019,1,Big 12,-2.4328031666666665
+Caleb Wilson,254,TE,UCLA,0,0.0,2019,1,Pac-12,-2.7661365
+Baker Mayfield,1,QB,Oklahoma,42,10.5,2018,3000,Big 12,-0.23297999999999952
+Saquon Barkley,2,RB,Penn St.,28,7.0,2018,2600,Big Ten,-2.6703799999999998
+Sam Darnold,3,QB,USC,22,5.5,2018,2200,Pac-12,-3.10778
+Denzel Ward,4,CB,Ohio St.,24,6.0,2018,1800,Big Ten,-1.5451800000000002
+Bradley Chubb,5,DE,North Carolina St.,23,5.75,2018,1700,ACC,-1.5295299999999994
+Quenton Nelson,6,G,Notre Dame,50,12.5,2018,1600,ACC,5.48612
+Josh Allen,7,QB,Wyoming,51,12.75,2018,1500,other,6.0017700000000005
+Roquan Smith,8,ILB,Georgia,39,9.75,2018,1400,SEC,3.2674199999999995
+Mike McGlinchey,9,T,Notre Dame,23,5.75,2018,1350,ACC,-0.599755
+Josh Rosen,10,QB,UCLA,3,0.75,2018,1300,Pac-12,-5.46693
+Minkah Fitzpatrick,11,S,Alabama,38,9.5,2018,1250,SEC,3.415895
+Vita Vea,12,DT,Washington,24,6.0,2018,1200,Pac-12,0.04871999999999943
+Daron Payne,13,DT,Alabama,27,6.75,2018,1150,SEC,0.9315449999999998
+Marcus Davenport,14,DE,Texas-San Antonio,13,3.25,2018,1100,other,-2.4356299999999997
+Kolton Miller,15,T,UCLA,27,6.75,2018,1050,Pac-12,1.1971950000000007
+Tremaine Edmunds,16,ILB,Virginia Tech,39,9.75,2018,1000,ACC,4.33002
+Derwin James,17,S,Florida St.,17,4.25,2018,950,ACC,-1.0371550000000003
+Jaire Alexander,18,CB,Louisville,22,5.5,2018,900,ACC,0.34567000000000014
+Leighton Vander Esch,19,OLB,Boise St.,27,6.75,2018,875,other,1.6620825000000004
+Frank Ragnow,20,C,Arkansas,23,5.75,2018,850,SEC,0.7284950000000006
+Billy Price,21,C,Ohio St.,14,3.5,2018,800,Big Ten,-1.38868
+Rashaan Evans,22,ILB,Alabama,25,6.25,2018,780,SEC,1.4144500000000004
+Isaiah Wynn,23,T,Georgia,16,4.0,2018,760,SEC,-0.7824200000000001
+D.J. Moore,24,WR,Maryland,33,8.25,2018,740,Big Ten,3.5207100000000002
+Hayden Hurst,25,TE,South Carolina,12,3.0,2018,720,SEC,-1.6761599999999994
+Calvin Ridley,26,WR,Alabama,26,6.5,2018,700,SEC,1.87697
+Rashaad Penny,27,RB,San Diego St.,12,3.0,2018,680,other,-1.5698999999999996
+Terrell Edmunds,28,S,Virginia Tech,21,5.25,2018,660,ACC,0.7332299999999998
+Taven Bryan,29,DT,Florida,10,2.5,2018,640,SEC,-1.9636399999999998
+Mike Hughes,30,CB,Central Florida,8,2.0,2018,620,other,-2.4105100000000004
+Sony Michel,31,RB,Georgia,21,5.25,2018,600,SEC,0.89262
+Lamar Jackson,32,QB,Louisville,59,14.75,2018,590,ACC,10.419185
+Austin Corbett,33,C,Nevada,19,4.75,2018,580,other,0.4457500000000003
+Will Hernandez,34,G,Texas-El Paso,23,5.75,2018,560,other,1.4988799999999998
+Nick Chubb,35,RB,Georgia,35,8.75,2018,550,SEC,4.525445
+Darius Leonard,36,LB,South Carolina St.,55,13.75,2018,540,other,9.55201
+Braden Smith,37,G,Auburn,27,6.75,2018,530,SEC,2.578575
+Ronald Jones II,38,RB,USC,17,4.25,2018,520,Pac-12,0.10514000000000046
+James Daniels,39,C,Iowa,18,4.5,2018,510,Big Ten,0.3817050000000002
+Courtland Sutton,40,WR,SMU,20,5.0,2018,500,other,0.9082699999999999
+Harold Landry,41,OLB,Boston Col.,28,7.0,2018,490,ACC,2.9348349999999996
+Mike Gesicki,42,TE,Penn St.,17,4.25,2018,480,Big Ten,0.21140000000000025
+Kerryon Johnson,43,RB,Auburn,11,2.75,2018,470,SEC,-1.262035
+Dante Pettis,44,WR,Washington,7,1.75,2018,460,Pac-12,-2.23547
+Josh Jackson,45,CB,Iowa,7,1.75,2018,450,Big Ten,-2.2089049999999997
+Breeland Speaks,46,DE,Mississippi,3,0.75,2018,440,SEC,-3.18234
+Christian Kirk,47,WR,Texas A&M,25,6.25,2018,430,SEC,2.344225
+Uchenna Nwosu,48,OLB,USC,14,3.5,2018,420,Pac-12,-0.37921000000000005
+Dallas Goedert,49,TE,South Dakota St.,19,4.75,2018,410,other,0.8973550000000001
+Connor Williams,50,T,Texas,22,5.5,2018,400,Big 12,1.6739199999999999
+Anthony Miller,51,WR,Memphis,12,3.0,2018,390,other,-0.799515
+Kemoko Turay,52,OLB,Rutgers,5,1.25,2018,380,Big Ten,-2.52295
+M.J. Stewart,53,CB,North Carolina,5,1.25,2018,370,ACC,-2.496385
+Jessie Bates III,54,S,Wake Forest,25,6.25,2018,360,ACC,2.53018
+Donte Jackson,55,CB,LSU,18,4.5,2018,350,SEC,0.8067450000000003
+Duke Dawson,56,CB,Florida,3,0.75,2018,340,SEC,-2.91669
+P.J. Hall,57,DT,Sam Houston St.,11,2.75,2018,330,other,-0.8901249999999998
+Isaiah Oliver,58,CB,Colorado,11,2.75,2018,320,Pac-12,-0.8635599999999997
+Derrius Guice,59,RB,LSU,2,0.5,2018,310,SEC,-3.086995
+James Washington,60,WR,Oklahoma St.,11,2.75,2018,300,Big 12,-0.8104300000000002
+DJ Chark,61,WR,LSU,14,3.5,2018,292,SEC,-0.03917799999999971
+Brian O'Neill,62,T,Pittsburgh,30,7.5,2018,284,ACC,3.982074
+Carlton Davis,63,CB,Auburn,18,4.5,2018,276,SEC,1.003326
+Tyquan Lewis,64,DE,Ohio St.,9,2.25,2018,270,Big Ten,-1.2307350000000001
+Brandon Parker,65,T,North Carolina A&T,14,3.5,2018,265,other,0.032547500000000174
+Lorenzo Carter,66,DE,Georgia,17,4.25,2018,260,SEC,0.79583
+Chad Thomas,67,DE,Miami (FL),5,1.25,2018,255,ACC,-2.1908875
+Justin Reid,68,S,Stanford,17,4.25,2018,250,Pac-12,0.8223950000000002
+B.J. Hill,69,DT,North Carolina St.,11,2.75,2018,245,ACC,-0.6643224999999999
+Fred Warner,70,OLB,BYU,41,10.25,2018,240,other,6.84896
+Royce Freeman,71,RB,Oregon,9,2.25,2018,235,Pac-12,-1.1377575000000002
+Nathan Shepherd,72,DT,Fort Hays St.,7,1.75,2018,230,other,-1.624475
+Jerome Baker,73,OLB,Ohio St.,24,6.0,2018,225,Big Ten,2.6388075
+Geron Christian,74,T,Louisville,8,2.0,2018,220,ACC,-1.3479099999999997
+Derrick Nnadi,75,DT,Florida St.,22,5.5,2018,215,ACC,2.1653725
+Mason Rudolph,76,QB,Oklahoma St.,5,1.25,2018,210,Big 12,-2.071345
+Sam Hubbard,77,DE,Ohio St.,23,5.75,2018,205,Big Ten,2.4419375
+Malik Jefferson,78,OLB,Texas,3,0.75,2018,200,Big 12,-2.54478
+Rasheem Green,79,DT,USC,14,3.5,2018,195,Pac-12,0.21850250000000004
+Martinas Rankin,80,T,Mississippi St.,7,1.75,2018,190,SEC,-1.518215
+Michael Gallup,81,WR,Colorado St.,23,5.75,2018,185,other,2.4950675
+Tracy Walker,82,S,Louisiana,10,2.5,2018,180,other,-0.7416499999999999
+Orlando Brown Jr.,83,T,Oklahoma,41,10.25,2018,175,Big 12,7.0216325
+Justin Jones,84,DT,North Carolina St.,16,4.0,2018,170,ACC,0.7849150000000003
+Rashaan Gaulden,85,CB,Tennessee,1,0.25,2018,165,SEC,-2.9518025
+Mark Andrews,86,TE,Oklahoma,32,8.0,2018,160,Big 12,4.8114799999999995
+Arden Key,87,DE,LSU,8,2.0,2018,155,SEC,-1.1752374999999997
+Oren Burks,88,ILB,Vanderbilt,7,1.75,2018,150,SEC,-1.4119549999999998
+Joseph Noteboom,89,T,TCU,10,2.5,2018,145,Big 12,-0.6486725
+Deadrin Senat,90,DT,South Florida,3,0.75,2018,140,other,-2.38539
+Tre'Quan Smith,91,WR,Central Florida,13,3.25,2018,136,other,0.12523600000000012
+Chukwuma Okorafor,92,T,Western Michigan,16,4.0,2018,132,other,0.8858619999999999
+Ronnie Harrison,93,S,Alabama,16,4.0,2018,128,SEC,0.8964880000000002
+Alex Cappa,94,T,Humboldt St.,24,6.0,2018,124,other,2.907114
+Tarvarius Moore,95,S,Southern Miss,7,1.75,2018,120,other,-1.3322599999999998
+Harrison Phillips,96,DT,Stanford,10,2.5,2018,116,Pac-12,-0.571634
+Mason Cole,97,C,Michigan,14,3.5,2018,112,Big Ten,0.4389919999999998
+Jordan Akins,98,TE,Central Florida,10,2.5,2018,108,other,-0.5503819999999999
+Isaac Yiadom,99,CB,Boston Col.,10,2.5,2018,104,ACC,-0.5397560000000001
+Dorian O'Daniel,100,OLB,Clemson,5,1.25,2018,100,ACC,-1.7791299999999999
+Ian Thomas,101,TE,Indiana,6,1.5,2018,96,Big Ten,-1.518504
+Jalyn Holmes,102,DE,Ohio St.,6,1.5,2018,92,Big Ten,-1.5078779999999998
+Keke Coutee,103,WR,Texas Tech,7,1.75,2018,88,Big 12,-1.247252
+Nyheim Hines,104,RB,North Carolina St.,22,5.5,2018,86,ACC,2.508061
+Antonio Callaway,105,WR,Florida,5,1.25,2018,84,SEC,-1.7366259999999998
+Josey Jewell,106,ILB,Iowa,16,4.0,2018,82,Big Ten,1.018687
+Chris Herndon,107,TE,Miami (FL),6,1.5,2018,80,ACC,-1.476
+Kyle Lauletta,108,QB,Richmond,0,0.0,2018,78,other,-2.970687
+Troy Apke,109,S,Penn St.,6,1.5,2018,76,Big Ten,-1.4653739999999997
+Nick Nelson,110,CB,Wisconsin,1,0.25,2018,74,Big Ten,-2.710061
+Brian Allen,111,C,Michigan St.,14,3.5,2018,72,Big Ten,0.5452520000000001
+Mark Walton,112,RB,Miami (FL),3,0.75,2018,70,ACC,-2.199435
+DaeSean Hamilton,113,WR,Penn St.,6,1.5,2018,68,Big Ten,-1.4441220000000001
+Da'Shawn Hand,114,DE,Alabama,7,1.75,2018,66,SEC,-1.188809
+Joel Iyiegbuniwe,115,LB,Western Kentucky,4,1.0,2018,64,other,-1.9334959999999999
+Dorance Armstrong Jr.,116,DE,Kansas,9,2.25,2018,62,Big 12,-0.6781829999999998
+Jordan Whitehead,117,S,Pittsburgh,20,5.0,2018,60,ACC,2.07713
+Anthony Averett,118,CB,Alabama,10,2.5,2018,58,SEC,-0.41755699999999996
+Kyzir White,119,S,West Virginia,18,4.5,2018,56,Big 12,1.5877560000000002
+Will Dissly,120,TE,Washington,7,1.75,2018,54,Pac-12,-1.1569310000000002
+Taron Johnson,121,CB,Weber St.,14,3.5,2018,52,other,0.598382
+Kenny Young,122,LB,UCLA,12,3.0,2018,50,Pac-12,0.10369500000000009
+Durham Smythe,123,TE,Notre Dame,5,1.25,2018,49,ACC,-1.6436484999999998
+Armani Watts,124,S,Texas A&M,3,0.75,2018,48,SEC,-2.140992
+Avonte Maddox,125,CB,Pittsburgh,11,2.75,2018,47,ACC,-0.13833549999999972
+Ito Smith,126,RB,Southern Miss,6,1.5,2018,46,other,-1.385679
+Rick Leonard,127,T,Florida St.,0,0.0,2018,45,ACC,-2.8830225
+Kentavius Street,128,DT,North Carolina St.,4,1.0,2018,44,ACC,-1.880366
+Will Richardson,129,T,North Carolina St.,4,1.0,2018,43,ACC,-1.8777095
+Josh Sweat,130,DE,Florida St.,14,3.5,2018,42,ACC,0.6249470000000001
+Kalen Ballage,131,RB,Arizona St.,6,1.5,2018,41,Pac-12,-1.3723964999999998
+Jaleel Scott,132,WR,New Mexico St.,0,0.0,2018,40,other,-2.8697399999999997
+J'Mon Moore,133,WR,Missouri,0,0.0,2018,40,SEC,-2.8697399999999997
+Chase Edmonds,134,RB,Fordham,17,4.25,2018,39,other,1.3829164999999999
+John Franklin-Myers,135,DE,S.F. Austin,11,2.75,2018,39,other,-0.11708350000000012
+Marquis Haynes,136,OLB,Mississippi,4,1.0,2018,38,SEC,-1.864427
+Dalton Schultz,137,TE,Stanford,13,3.25,2018,38,Pac-12,0.38557299999999994
+Cole Madison,138,G,Washington St.,0,0.0,2018,37,Pac-12,-2.8617705
+R.J. McIntosh,139,DT,Miami (FL),1,0.25,2018,37,ACC,-2.6117705
+Maurice Hurst Jr.,140,DT,Michigan,9,2.25,2018,36,Big Ten,-0.6091139999999999
+Shaquem Griffin,141,OLB,Central Florida,4,1.0,2018,36,other,-1.859114
+D.J. Reed,142,CB,Kansas St.,12,3.0,2018,35,Big 12,0.14354250000000013
+Ja'Whaun Bentley,143,ILB,Purdue,20,5.0,2018,35,Big Ten,2.1435425
+Justin Watson,144,WR,Pennsylvania,2,0.5,2018,34,other,-2.353801
+Bilal Nichols,145,DT,Delaware,23,5.75,2018,34,other,2.896199
+Tre Flowers,146,S,Oklahoma St.,14,3.5,2018,33,Big 12,0.6488555000000003
+Micah Kiser,147,ILB,Virginia,6,1.5,2018,33,ACC,-1.3511444999999997
+Marcus Allen,148,S,Penn St.,5,1.25,2018,32,Big Ten,-1.5984880000000001
+Michael Dickson,149,P,Texas,11,2.75,2018,32,Big 12,-0.09848800000000013
+Genard Avery,150,LB,Memphis,11,2.75,2018,31,other,-0.09583150000000007
+Davontae Harris,151,CB,Illinois St.,5,1.25,2018,31,other,-1.5958315
+Dane Cruikshank,152,CB,Arizona,4,1.0,2018,31,Pac-12,-1.8458315
+Tyrell Crosby,153,T,Oregon,11,2.75,2018,30,Pac-12,-0.09317500000000001
+Siran Neal,154,CB,Jacksonville St.,4,1.0,2018,30,other,-1.843175
+Scott Quessenberry,155,C,UCLA,9,2.25,2018,29,Pac-12,-0.5905185
+Troy Fumagalli,156,TE,Wisconsin,1,0.25,2018,29,Big Ten,-2.5905185
+Tyler Conklin,157,TE,Central Michigan,9,2.25,2018,29,other,-0.5905185
+Andrew Brown,158,DE,Virginia,2,0.5,2018,28,ACC,-2.337862
+Daurice Fountain,159,WR,Northern Iowa,0,0.0,2018,28,other,-2.837862
+Ogbonnia Okoronkwo,160,DE,Oklahoma,3,0.75,2018,27,Big 12,-2.0852055
+Jermaine Carter Jr.,161,LB,Maryland,14,3.5,2018,27,Big Ten,0.6647945000000002
+Jordan Lasley,162,WR,UCLA,0,0.0,2018,27,Pac-12,-2.8352055
+Tim Settle,163,DT,Virginia Tech,5,1.25,2018,26,ACC,-1.5825489999999998
+Natrell Jamerson,164,S,Wisconsin,1,0.25,2018,26,Big Ten,-2.5825489999999998
+Jaylen Samuels,165,TE,North Carolina St.,7,1.75,2018,25,ACC,-1.0798925000000001
+Wyatt Teller,166,G,Virginia Tech,23,5.75,2018,25,ACC,2.9201075
+Daniel Carlson,167,K,Auburn,12,3.0,2018,25,SEC,0.17010749999999986
+Jamarco Jones,168,T,Ohio St.,7,1.75,2018,24,Big Ten,-1.077236
+Jordan Wilkins,169,RB,Mississippi,8,2.0,2018,24,SEC,-0.8272360000000001
+Darius Phillips,170,CB,Western Michigan,7,1.75,2018,23,other,-1.0745795
+Mike White,171,QB,Western Kentucky,2,0.5,2018,23,other,-2.3245795
+JK Scott,172,P,Alabama,6,1.5,2018,23,SEC,-1.3245795
+Johnny Townsend,173,P,Florida,2,0.5,2018,22,SEC,-2.321923
+Marquez Valdes-Scantling,174,WR,South Florida,19,4.75,2018,22,other,1.928077
+Damion Ratley,175,WR,Texas A&M,4,1.0,2018,21,SEC,-1.8192665
+John Kelly,176,RB,Tennessee,1,0.25,2018,21,SEC,-2.5692665
+Duke Ejiofor,177,DE,Wake Forest,1,0.25,2018,21,ACC,-2.5692665
+Christian Sam,178,ILB,Arizona St.,0,0.0,2018,20,Pac-12,-2.81661
+Parry Nickerson,179,CB,Tulane,2,0.5,2018,20,other,-2.31661
+Folorunso Fatukasi,180,DT,Connecticut,12,3.0,2018,19,other,0.18604650000000023
+Kylie Fitts,181,DE,Utah,1,0.25,2018,19,Pac-12,-2.5639534999999998
+Christian Campbell,182,CB,Penn St.,0,0.0,2018,19,Big Ten,-2.8139534999999998
+Sam Jones,183,G,Arizona St.,0,0.0,2018,18,Pac-12,-2.8112969999999997
+Marcell Harris,184,S,Florida,13,3.25,2018,18,SEC,0.4387030000000003
+Deon Cain,185,WR,Clemson,1,0.25,2018,17,ACC,-2.5586405
+Jacob Martin,186,LB,Temple,11,2.75,2018,17,other,-0.058640500000000095
+Ray-Ray McCloud,187,WR,Clemson,3,0.75,2018,17,ACC,-2.0586405
+Simeon Thomas,188,CB,Louisiana,1,0.25,2018,16,other,-2.555984
+Kamrin Moore,189,CB,Boston Col.,0,0.0,2018,16,ACC,-2.805984
+DeShon Elliott,190,S,Texas,10,2.5,2018,15,Big 12,-0.30332749999999997
+Dylan Cantrell,191,WR,Texas Tech,0,0.0,2018,15,Big 12,-2.8033275
+Jamil Demby,192,T,Maine,1,0.25,2018,15,other,-2.5533275
+Chris Covington,193,LB,Indiana,0,0.0,2018,14,Big Ten,-2.800671
+Russell Gage,194,WR,LSU,17,4.25,2018,14,SEC,1.449329
+Sebastian Joseph-Day,195,DT,Rutgers,18,4.5,2018,13,Big Ten,1.7019855000000002
+Tremon Smith,196,WR,Central Arkansas,4,1.0,2018,13,other,-1.7980144999999998
+Shaun Dion Hamilton,197,LB,Alabama,8,2.0,2018,13,SEC,-0.7980144999999998
+Kahlil McKenzie,198,DT,Tennessee,1,0.25,2018,12,SEC,-2.545358
+Luke Falk,199,QB,Washington St.,1,0.25,2018,12,Pac-12,-2.545358
+Foyesade Oluokun,200,S,Yale,19,4.75,2018,11,other,1.9572985000000003
+Boston Scott,201,RB,Louisiana Tech,9,2.25,2018,11,other,-0.5427014999999997
+Jack Cichy,202,ILB,Wisconsin,0,0.0,2018,11,Big Ten,-2.7927014999999997
+Tanner Lee,203,QB,Nebraska,0,0.0,2018,10,Big Ten,-2.790045
+Trenton Cannon,204,RB,Virginia St.,2,0.5,2018,10,other,-2.290045
+Trevon Young,205,DE,Louisville,0,0.0,2018,9,ACC,-2.7873885
+Matt Pryor,206,T,TCU,9,2.25,2018,9,Big 12,-0.5373885
+Equanimeous St. Brown,207,WR,Notre Dame,4,1.0,2018,9,ACC,-1.7873885
+Cedrick Wilson Jr.,208,WR,Boise St.,6,1.5,2018,8,other,-1.284732
+Cornell Armstrong,209,CB,Southern Miss,2,0.5,2018,8,other,-2.284732
+Braxton Berrios,210,WR,Miami (FL),9,2.25,2018,7,ACC,-0.5320754999999999
+Jordan Thomas,211,TE,Mississippi St.,2,0.5,2018,7,SEC,-2.2820755
+Greg Senat,212,T,Wagner,1,0.25,2018,7,other,-2.5320755
+Colby Gossett,213,G,Appalachian St.,2,0.5,2018,6,other,-2.279419
+Peter Kalambayi,214,LB,Stanford,3,0.75,2018,6,Pac-12,-2.029419
+Bradley Bozeman,215,C,Alabama,24,6.0,2018,5,SEC,3.2232375
+Azeem Victor,216,LB,Washington,0,0.0,2018,5,Pac-12,-2.7767625
+Keishawn Bierria,217,ILB,Washington,1,0.25,2018,5,Pac-12,-2.5267625
+Ade Aruna,218,DE,Tulane,0,0.0,2018,4,other,-2.7741059999999997
+Danny Etling,219,QB,LSU,0,0.0,2018,4,SEC,-2.7741059999999997
+Alex McGough,220,QB,Florida International,0,0.0,2018,3,other,-2.7714495
+Matthew Adams,221,LB,Houston,10,2.5,2018,3,other,-0.2714495000000001
+Jermaine Kelly,222,CB,San Jose St.,0,0.0,2018,3,other,-2.7714495
+Jullian Taylor,223,DT,Temple,1,0.25,2018,2,other,-2.518793
+Javon Wims,224,WR,Georgia,1,0.25,2018,2,SEC,-2.518793
+Devante Downs,225,LB,California,6,1.5,2018,1,Pac-12,-1.2661365
+David Williams,226,RB,Arkansas,0,0.0,2018,1,SEC,-2.7661365
+Quentin Poling,227,LB,Ohio,0,0.0,2018,1,other,-2.7661365
+Marcell Ateman,228,WR,Oklahoma St.,2,0.5,2018,1,Big 12,-2.2661365
+Jason Sanders,229,K,New Mexico,13,3.25,2018,1,other,0.4838635
+Leon Jacobs,230,OLB,Wisconsin,7,1.75,2018,1,Big Ten,-1.0161365
+Travin Howard,231,OLB,TCU,3,0.75,2018,1,Big 12,-2.0161365
+James Looney,232,DE,California,0,0.0,2018,1,Pac-12,-2.7661365
+Jordan Mailata,233,T,,11,2.75,2018,1,other,-0.016136499999999998
+Andre Smith,234,ILB,North Carolina,4,1.0,2018,1,ACC,-1.7661365
+Zaire Franklin,235,LB,Syracuse,10,2.5,2018,1,ACC,-0.2661365
+Bo Scarbrough,236,RB,Alabama,2,0.5,2018,1,SEC,-2.2661365
+Nick Bawden,237,RB,San Diego St.,0,0.0,2018,1,other,-2.7661365
+Zach Sieler,238,DE,Ferris St.,11,2.75,2018,1,other,-0.016136499999999998
+Hunter Bradley,239,LS,Mississippi St.,3,0.75,2018,1,SEC,-2.0161365
+Richie James,240,WR,Middle Tenn. St.,7,1.75,2018,1,other,-1.0161365
+Greg Stroman,241,CB,Virginia Tech,2,0.5,2018,1,ACC,-2.2661365
+Kendrick Norton,242,DT,Miami (FL),0,0.0,2018,1,ACC,-2.7661365
+Keion Crossen,243,CB,Western Carolina,5,1.25,2018,1,other,-1.5161365
+Justin Lawler,244,DE,SMU,1,0.25,2018,1,other,-2.5161365
+Will Clapp,245,C,LSU,5,1.25,2018,1,SEC,-1.5161365
+Joshua Frazier,246,DT,Alabama,0,0.0,2018,1,SEC,-2.7661365
+Logan Cooke,247,P,Mississippi St.,10,2.5,2018,1,SEC,-0.2661365
+Kendall Donnerson,248,OLB,SE Missouri St.,0,0.0,2018,1,other,-2.7661365
+Logan Woodside,249,QB,Toledo,0,0.0,2018,1,other,-2.7661365
+Ryan Izzo,250,TE,Florida St.,3,0.75,2018,1,ACC,-2.0161365
+Justin Jackson,251,RB,Northwestern,10,2.5,2018,1,Big Ten,-0.2661365
+Rod Taylor,252,G,Mississippi,0,0.0,2018,1,SEC,-2.7661365
+Auden Tate,253,WR,Florida St.,5,1.25,2018,1,ACC,-1.5161365
+Korey Cunningham,254,T,Cincinnati,4,1.0,2018,1,other,-1.7661365
+Austin Proehl,255,WR,North Carolina,0,0.0,2018,1,ACC,-2.7661365
+Trey Quinn,256,WR,SMU,2,0.5,2018,1,other,-2.2661365
+Myles Garrett,1,DE,Texas A&M,51,10.2,2017,3000,SEC,-0.5329800000000002
+Mitchell Trubisky,2,QB,North Carolina,33,6.6,2017,2600,ACC,-3.07038
+Solomon Thomas,3,DE,Stanford,16,3.2,2017,2200,Pac-12,-5.40778
+Leonard Fournette,4,RB,LSU,32,6.4,2017,1800,SEC,-1.1451799999999999
+Corey Davis,5,WR,Western Michigan,28,5.6,2017,1700,other,-1.6795299999999997
+Jamal Adams,6,S,LSU,42,8.4,2017,1600,SEC,1.38612
+Mike Williams,7,WR,Clemson,30,6.0,2017,1500,ACC,-0.7482299999999995
+Christian McCaffrey,8,RB,Stanford,45,9.0,2017,1400,Pac-12,2.5174199999999995
+John Ross,9,WR,Washington,7,1.4,2017,1350,Pac-12,-4.949755
+Patrick Mahomes,10,QB,Texas Tech,70,14.0,2017,1300,Big 12,7.78307
+Marshon Lattimore,11,CB,Ohio St.,35,7.0,2017,1250,Big Ten,0.9158949999999999
+Deshaun Watson,12,QB,Clemson,52,10.4,2017,1200,ACC,4.44872
+Haason Reddick,13,LB,Temple,23,4.6,2017,1150,other,-1.2184550000000005
+Derek Barnett,14,DE,Tennessee,22,4.4,2017,1100,SEC,-1.2856299999999994
+Malik Hooker,15,S,Ohio St.,15,3.0,2017,1050,Big Ten,-2.5528049999999993
+Marlon Humphrey,16,CB,Alabama,36,7.2,2017,1000,SEC,1.7800200000000004
+Jonathan Allen,17,DE,Alabama,33,6.6,2017,950,SEC,1.3128449999999994
+Adoree' Jackson,18,CB,USC,19,3.8,2017,900,Pac-12,-1.35433
+O.J. Howard,19,TE,Alabama,12,2.4,2017,875,SEC,-2.6879174999999997
+Garett Bolles,20,T,Utah,33,6.6,2017,850,Pac-12,1.5784950000000002
+Jarrad Davis,21,LB,Florida,22,4.4,2017,800,SEC,-0.48867999999999956
+Charles Harris,22,OLB,Missouri,12,2.4,2017,780,SEC,-2.4355499999999997
+Evan Engram,23,TE,Mississippi,20,4.0,2017,760,SEC,-0.7824200000000001
+Gareon Conley,24,CB,Ohio St.,9,1.8,2017,740,Big Ten,-2.92929
+Jabrill Peppers,25,S,Michigan,22,4.4,2017,720,Big Ten,-0.2761599999999991
+Takkarist McKinley,26,DE,UCLA,15,3.0,2017,700,Pac-12,-1.62303
+Tre'Davious White,27,CB,LSU,45,9.0,2017,680,SEC,4.4301
+Taco Charlton,28,DE,Michigan,9,1.8,2017,660,Big Ten,-2.7167700000000004
+David Njoku,29,TE,Miami (FL),12,2.4,2017,640,ACC,-2.06364
+T.J. Watt,30,OLB,Wisconsin,60,12.0,2017,620,Big Ten,7.58949
+Reuben Foster,31,LB,Alabama,8,1.6,2017,600,SEC,-2.75738
+Ryan Ramczyk,32,T,Wisconsin,55,11.0,2017,590,Big Ten,6.669185000000001
+Kevin King,33,CB,Washington,15,3.0,2017,580,Pac-12,-1.3042499999999997
+Cam Robinson,34,T,Alabama,25,5.0,2017,560,SEC,0.7488799999999998
+Malik McDowell,35,DT,Michigan St.,6,1.2,2017,550,Big Ten,-3.0245549999999994
+Budda Baker,36,S,Washington,42,8.4,2017,540,Pac-12,4.2020100000000005
+Zay Jones,37,WR,East Carolina,15,3.0,2017,530,other,-1.1714250000000002
+Forrest Lamp,38,G,Western Kentucky,8,1.6,2017,520,other,-2.5448599999999995
+Marcus Maye,39,S,Florida,21,4.2,2017,510,SEC,0.08170500000000036
+Curtis Samuel,40,WR,Ohio St.,18,3.6,2017,500,Big Ten,-0.49173
+Dalvin Cook,41,RB,Florida St.,44,8.8,2017,490,ACC,4.734835
+Marcus Williams,42,S,Utah,24,4.8,2017,480,Pac-12,0.7614000000000001
+Sidney Jones,43,CB,Washington,10,2.0,2017,470,Pac-12,-2.012035
+Gerald Everett,44,TE,South Alabama,16,3.2,2017,460,other,-0.7854699999999997
+Adam Shaheen,45,TE,Ashland,4,0.8,2017,450,other,-3.158905
+Quincy Wilson,46,CB,Florida,4,0.8,2017,440,SEC,-3.13234
+Tyus Bowser,47,OLB,Houston,17,3.4,2017,430,other,-0.5057750000000003
+Joe Mixon,48,RB,Oklahoma,35,7.0,2017,420,Big 12,3.12079
+Ryan Anderson,49,OLB,Alabama,6,1.2,2017,410,SEC,-2.6526449999999997
+Justin Evans,50,S,Texas A&M,8,1.6,2017,400,SEC,-2.22608
+DeMarcus Walker,51,DE,Florida St.,8,1.6,2017,390,ACC,-2.199515
+DeShone Kizer,52,QB,Notre Dame,6,1.2,2017,380,ACC,-2.5729499999999996
+Teez Tabor,53,CB,Florida,4,0.8,2017,370,SEC,-2.9463850000000003
+Raekwon McMillan,54,LB,Ohio St.,11,2.2,2017,360,Big Ten,-1.5198199999999997
+Dalvin Tomlinson,55,DT,Alabama,31,6.2,2017,350,SEC,2.5067450000000004
+Obi Melifonwu,56,S,Connecticut,1,0.2,2017,340,other,-3.46669
+Zach Cunningham,57,LB,Vanderbilt,27,5.4,2017,330,SEC,1.7598750000000005
+Ethan Pocic,58,C,LSU,20,4.0,2017,320,SEC,0.38644000000000034
+Tanoh Kpassagnon,59,DE,Villanova,17,3.4,2017,310,other,-0.18699500000000002
+Chidobe Awuzie,60,CB,Colorado,19,3.8,2017,300,Pac-12,0.23956999999999962
+Josh Jones,61,S,North Carolina St.,9,1.8,2017,292,ACC,-1.7391779999999997
+JuJu Smith-Schuster,62,WR,USC,31,6.2,2017,284,Pac-12,2.682074
+Dion Dawkins,63,G,Temple,35,7.0,2017,276,other,3.503326
+Taylor Moton,64,G,Western Michigan,28,5.6,2017,270,other,2.1192649999999995
+Larry Ogunjobi,65,DT,Charlotte,29,5.8,2017,265,other,2.3325475
+Ahkello Witherspoon,66,CB,Colorado,14,2.8,2017,260,Pac-12,-0.6541700000000001
+Alvin Kamara,67,RB,Tennessee,59,11.8,2017,255,SEC,8.3591125
+Dawuane Smoot,68,DE,Illinois,13,2.6,2017,250,Big Ten,-0.8276049999999997
+Cooper Kupp,69,WR,East. Washington,45,9.0,2017,245,other,5.5856775
+Pat Elflein,70,C,Ohio St.,25,5.0,2017,240,Big Ten,1.59896
+Dan Feeney,71,G,Indiana,29,5.8,2017,235,Big Ten,2.4122424999999996
+Taywan Taylor,72,WR,Western Kentucky,6,1.2,2017,230,other,-2.174475
+Jordan Willis,73,OLB,Kansas St.,7,1.4,2017,225,Big 12,-1.9611925000000001
+Chris Wormley,74,DE,Michigan,16,3.2,2017,220,Big Ten,-0.14790999999999954
+Duke Riley,75,LB,LSU,14,2.8,2017,215,SEC,-0.5346275
+Alex Anzalone,76,LB,Florida,15,3.0,2017,210,SEC,-0.321345
+Daeshon Hall,77,DE,Texas A&M,1,0.2,2017,205,SEC,-3.1080625
+Tim Williams,78,OLB,Alabama,2,0.4,2017,200,SEC,-2.89478
+ArDarius Stewart,79,WR,Alabama,1,0.2,2017,195,SEC,-3.0814975
+Tarell Basham,80,DE,Ohio,13,2.6,2017,190,other,-0.668215
+Fabian Moreau,81,CB,UCLA,14,2.8,2017,185,Pac-12,-0.45493249999999996
+Carlos Henderson,82,WR,Louisiana Tech,0,0.0,2017,180,other,-3.24165
+Derek Rivers,83,DE,Youngstown St.,4,0.8,2017,175,other,-2.4283675000000002
+Chris Godwin,84,WR,Penn St.,35,7.0,2017,170,Big Ten,3.7849150000000003
+Antonio Garcia,85,T,Troy,0,0.0,2017,165,other,-3.2018025
+Kareem Hunt,86,RB,Toledo,39,7.8,2017,160,other,4.61148
+Davis Webb,87,QB,California,0,0.0,2017,155,Pac-12,-3.1752374999999997
+Eddie Vanderdoes,88,DT,UCLA,5,1.0,2017,150,Pac-12,-2.161955
+D'Onta Foreman,89,RB,Texas,8,1.6,2017,145,Big 12,-1.5486725
+Shaquill Griffin,90,DB,Central Florida,25,5.0,2017,140,other,1.8646099999999999
+John Johnson,91,S,Boston Col.,21,4.2,2017,136,ACC,1.0752360000000003
+Jourdan Lewis,92,CB,Michigan,17,3.4,2017,132,Big Ten,0.28586199999999984
+Montravius Adams,93,DT,Auburn,5,1.0,2017,128,SEC,-2.103512
+Cameron Sutton,94,CB,Tennessee,11,2.2,2017,124,SEC,-0.8928859999999998
+Lano Hill,95,S,Michigan,5,1.0,2017,120,Big Ten,-2.0822599999999998
+Kenny Golladay,96,WR,Northern Illinois,26,5.2,2017,116,other,2.128366
+Cordrea Tankersley,97,CB,Clemson,4,0.8,2017,112,ACC,-2.2610080000000004
+Chad Williams,98,WR,Grambling St.,1,0.2,2017,108,other,-2.8503819999999997
+Rasul Douglas,99,CB,West Virginia,15,3.0,2017,104,Big 12,-0.039756000000000125
+Jonnu Smith,100,TE,Florida International,14,2.8,2017,100,other,-0.22913000000000006
+Brendan Langley,101,CB,Lamar,1,0.2,2017,96,other,-2.818504
+Nazair Jones,102,DT,North Carolina,3,0.6,2017,92,ACC,-2.4078779999999997
+Trey Hendrickson,103,OLB,Florida Atlantic,23,4.6,2017,88,other,1.6027479999999996
+C.J. Beathard,104,QB,Iowa,8,1.6,2017,86,Big Ten,-1.3919389999999998
+James Conner,105,RB,Pittsburgh,26,5.2,2017,84,ACC,2.2133740000000004
+Amara Darboh,106,WR,Michigan,1,0.2,2017,82,Big Ten,-2.781313
+Kendell Beckwith,107,ILB,LSU,5,1.0,2017,80,SEC,-1.976
+Vince Biegel,108,LB,Wisconsin,5,1.0,2017,78,Big Ten,-1.9706869999999999
+Jaleel Johnson,109,DT,Iowa,13,2.6,2017,76,Big Ten,-0.36537399999999964
+Dede Westbrook,110,WR,Oklahoma,14,2.8,2017,74,Big 12,-0.16006100000000023
+Tedric Thompson,111,S,Colorado,9,1.8,2017,72,Pac-12,-1.1547479999999999
+Eddie Jackson,112,S,Alabama,39,7.8,2017,70,SEC,4.850565
+Rayshawn Jenkins,113,S,Miami (FL),16,3.2,2017,68,ACC,0.25587800000000005
+Samaje Perine,114,RB,Oklahoma,10,2.0,2017,66,Big 12,-0.938809
+Dorian Johnson,115,G,Pittsburgh,0,0.0,2017,64,ACC,-2.933496
+Carl Lawson,116,OLB,Auburn,11,2.2,2017,62,SEC,-0.7281829999999996
+Josh Reynolds,117,WR,Texas A&M,11,2.2,2017,60,SEC,-0.7228699999999999
+Mack Hollins,118,WR,North Carolina,6,1.2,2017,58,ACC,-1.717557
+Tarik Cohen,119,RB,North Carolina A&T,21,4.2,2017,56,other,1.2877560000000003
+Ben Gedeon,120,ILB,Michigan,12,2.4,2017,54,Big Ten,-0.5069310000000002
+Joe Williams,121,RB,Utah,0,0.0,2017,52,Pac-12,-2.901618
+Nico Siragusa,122,G,San Diego St.,0,0.0,2017,50,other,-2.896305
+Montae Nicholson,123,S,Michigan St.,10,2.0,2017,49,Big Ten,-0.8936484999999998
+Jalen Reeves-Maybin,124,LB,Tennessee,9,1.8,2017,48,SEC,-1.0909919999999997
+Samson Ebukam,125,OLB,East. Washington,25,5.0,2017,47,other,2.1116645000000003
+Howard Wilson,126,CB,Houston,0,0.0,2017,46,other,-2.885679
+Michael Roberts,127,TE,Toledo,1,0.2,2017,45,other,-2.6830225
+Josh Malone,128,WR,Tennessee,1,0.2,2017,44,SEC,-2.680366
+David Sharpe,129,T,Florida,4,0.8,2017,43,SEC,-2.0777095
+Julie'n Davenport,130,T,Bucknell,16,3.2,2017,42,other,0.3249470000000003
+Deatrich Wise Jr.,131,DE,Arkansas,22,4.4,2017,41,SEC,1.5276035000000006
+Donnel Pumphrey,132,RB,San Diego St.,0,0.0,2017,40,other,-2.8697399999999997
+Ryan Switzer,133,WR,North Carolina,3,0.6,2017,40,ACC,-2.2697399999999996
+Jamaal Williams,134,RB,BYU,25,5.0,2017,39,other,2.1329165
+Joshua Dobbs,135,QB,Tennessee,0,0.0,2017,39,SEC,-2.8670835
+Sean Harlow,136,G,Oregon St.,3,0.6,2017,38,Pac-12,-2.264427
+Zach Banner,137,T,USC,2,0.4,2017,38,Pac-12,-2.464427
+Ryan Glasgow,138,DT,Michigan,3,0.6,2017,37,Big Ten,-2.2617705
+Jehu Chesson,139,WR,Michigan,0,0.0,2017,37,Big Ten,-2.8617705
+Wayne Gallman,140,RB,Clemson,11,2.2,2017,36,ACC,-0.6591139999999998
+Chad Hansen,141,WR,California,3,0.6,2017,36,Pac-12,-2.259114
+Carlos Watkins,142,DT,Clemson,17,3.4,2017,35,ACC,0.5435425
+Marlon Mack,143,RB,South Florida,19,3.8,2017,35,other,0.9435425
+Grover Stewart,144,DT,Albany State (GA),21,4.2,2017,34,other,1.3461990000000004
+Jake Butt,145,TE,Michigan,1,0.2,2017,34,Big Ten,-2.6538009999999996
+George Kittle,146,TE,Iowa,35,7.0,2017,33,Big Ten,4.1488555
+Jordan Morgan,147,G,Kutztown (PA),0,0.0,2017,33,other,-2.8511444999999997
+Blair Brown,148,LB,Ohio,3,0.6,2017,32,other,-2.248488
+Damontae Kazee,149,CB,San Diego St.,17,3.4,2017,32,other,0.5515119999999998
+Jordan Leggett,150,TE,Clemson,1,0.2,2017,31,ACC,-2.6458315
+Desmond King,151,S,Iowa,21,4.2,2017,31,Big Ten,1.3541685
+Corn Elder,152,CB,Miami (FL),2,0.4,2017,31,ACC,-2.4458315
+Jake Elliott ,153,K,Memphis,15,3.0,2017,30,other,0.156825
+Jeremy Sprinkle,154,TE,Arkansas,2,0.4,2017,30,SEC,-2.443175
+Jayon Brown,155,LB,UCLA,23,4.6,2017,29,Pac-12,1.7594814999999997
+Brian Hill,156,RB,Wyoming,9,1.8,2017,29,other,-1.0405185
+Will Holden,157,T,Vanderbilt,5,1.0,2017,29,SEC,-1.8405185
+Nate Hairston,158,CB,Temple,9,1.8,2017,28,other,-1.0378619999999998
+Jermaine Eluemunor,159,G,Texas A&M,9,1.8,2017,28,SEC,-1.0378619999999998
+Roderick Johnson,160,T,Florida St.,5,1.0,2017,27,ACC,-1.8352054999999998
+Anthony Walker,161,LB,Northwestern,26,5.2,2017,27,Big Ten,2.3647945000000004
+Jeremy McNichols,162,RB,Boise St.,5,1.0,2017,27,other,-1.8352054999999998
+Matt Milano,163,LB,Boston Col.,33,6.6,2017,26,ACC,3.767451
+Isaac Asiata,164,G,Utah,0,0.0,2017,26,Pac-12,-2.8325489999999998
+Jamal Agnew,165,CB,San Diego,16,3.2,2017,25,other,0.37010750000000003
+Shelton Gibson,166,WR,West Virginia,0,0.0,2017,25,Big 12,-2.8298925
+Avery Moss,167,DE,Youngstown St.,4,0.8,2017,25,other,-2.0298925
+Marquel Lee,168,LB,Wake Forest,9,1.8,2017,24,ACC,-1.027236
+Treston Decoud,169,S,Oregon St.,1,0.2,2017,24,Pac-12,-2.627236
+Rodney Adams,170,WR,South Florida,0,0.0,2017,23,other,-2.8245795
+Nathan Peterman,171,QB,Pittsburgh,2,0.4,2017,23,ACC,-2.4245795
+Isaiah McKenzie,172,WR,Georgia,9,1.8,2017,23,SEC,-1.0245795
+Brian Allen,173,DB,Utah,1,0.2,2017,22,Pac-12,-2.621923
+Eric Saubert,174,TE,Drake,0,0.0,2017,22,other,-2.821923
+DeAngelo Yancey,175,WR,Purdue,0,0.0,2017,21,Big Ten,-2.8192665
+JJ Dielman,176,C,Utah,0,0.0,2017,21,Pac-12,-2.8192665
+Trent Taylor,177,WR,Louisiana Tech,6,1.2,2017,21,other,-1.6192665
+Davon Godchaux,178,DT,LSU,24,4.8,2017,20,SEC,1.98339
+T.J. Logan,179,RB,North Carolina,0,0.0,2017,20,ACC,-2.81661
+Danny Isidora,180,G,Miami (FL),4,0.8,2017,19,ACC,-2.0139534999999995
+Dylan Donahue,181,DL,West Georgia,0,0.0,2017,19,other,-2.8139534999999998
+Aaron Jones,182,RB,Texas-El Paso,41,8.2,2017,19,other,5.386046499999999
+Ukeme Eligwe,183,LB,Georgia Southern,2,0.4,2017,18,other,-2.411297
+Nathan Gerry,184,S,Nebraska,18,3.6,2017,18,Big Ten,0.7887030000000004
+Caleb Brantley,185,DT,Florida,2,0.4,2017,17,SEC,-2.4086405
+Chuck Clark,186,DB,Virginia Tech,21,4.2,2017,17,ACC,1.3913595
+Michael Tyson,187,S,Cincinnati,1,0.2,2017,17,other,-2.6086405
+Elijah McGuire,188,RB,Louisiana,6,1.2,2017,16,other,-1.605984
+Tanzel Smart,189,DT,Tulane,4,0.8,2017,16,other,-2.0059839999999998
+Sam Tevi,190,T,Utah,23,4.6,2017,15,Pac-12,1.7966724999999997
+Xavier Woods,191,S,Louisiana Tech,22,4.4,2017,15,other,1.5966725000000004
+Alex Armah,192,FB,West Georgia,0,0.0,2017,15,other,-2.8033275
+Jordan Evans,193,LB,Oklahoma,9,1.8,2017,14,Big 12,-1.0006709999999999
+Vincent Taylor,194,DT,Oklahoma St.,5,1.0,2017,14,Big 12,-1.800671
+Tanner Vallejo,195,LB,Boise St.,6,1.2,2017,13,other,-1.5980145
+Al-Quadin Muhammad,196,DE,Miami (FL),13,2.6,2017,13,ACC,-0.19801449999999976
+Jeremy Clark,197,CB,Michigan,0,0.0,2017,13,Big Ten,-2.7980145
+D.J. Jones,198,DT,Mississippi,23,4.6,2017,12,SEC,1.8046419999999999
+Chase Roullier,199,C,Wyoming,23,4.6,2017,12,other,1.8046419999999999
+Adam Bisnowaty,200,T,Pittsburgh,0,0.0,2017,11,ACC,-2.7927014999999997
+Bucky Hodges,201,TE,Virginia Tech,0,0.0,2017,11,ACC,-2.7927014999999997
+Pita Taumoepenu,202,OLB,Utah,0,0.0,2017,11,Pac-12,-2.7927014999999997
+De'Angelo Henderson,203,RB,Coastal Carolina,0,0.0,2017,10,other,-2.790045
+Derrick Jones,204,CB,Mississippi,0,0.0,2017,10,SEC,-2.790045
+Jeremiah Ledbetter,205,DE,Arkansas,1,0.2,2017,9,SEC,-2.5873885
+Sam Rogers,206,FB,Virginia Tech,0,0.0,2017,9,ACC,-2.7873885
+Brandon Wilson,207,RB,Houston,6,1.2,2017,9,other,-1.5873885
+Rudy Ford ,208,S,Auburn,6,1.2,2017,8,SEC,-1.584732
+Robert Davis,209,WR,Georgia St.,0,0.0,2017,8,other,-2.784732
+Justin Senior,210,T,Mississippi St.,0,0.0,2017,7,SEC,-2.7820755
+Conor McDermott,211,T,UCLA,3,0.6,2017,7,Pac-12,-2.1820755
+Kofi Amichia,212,C,South Florida,0,0.0,2017,7,other,-2.7820755
+Colin Holba,213,LS,Louisville,0,0.0,2017,6,ACC,-2.779419
+Elijah Qualls,214,DT,Washington,1,0.2,2017,6,Pac-12,-2.5794189999999997
+Brad Kaaya,215,QB,Miami (FL),0,0.0,2017,5,ACC,-2.7767625
+Marquez White,216,CB,Florida St.,0,0.0,2017,5,ACC,-2.7767625
+Corey Levin,217,OL,Chattanooga,3,0.6,2017,5,other,-2.1767624999999997
+Leon McQuay,218,S,USC,0,0.0,2017,4,Pac-12,-2.7741059999999997
+Stacy Coley,219,WR,Miami (FL),0,0.0,2017,4,ACC,-2.7741059999999997
+Ifeadi Odenigbo,220,DL,Northwestern,10,2.0,2017,3,Big Ten,-0.7714495000000001
+Shalom Luani,221,S,Washington St.,2,0.4,2017,3,Pac-12,-2.3714495
+Jalen Myrick,222,CB,Minnesota,0,0.0,2017,3,Big Ten,-2.7714495
+Stevie Tu'ikolovatu,223,NT,USC,0,0.0,2017,2,Pac-12,-2.768793
+Zane Gonzalez,224,K,Arizona St.,11,2.2,2017,2,Pac-12,-0.5687929999999999
+Isaac Rochell,225,DT,Notre Dame,9,1.8,2017,1,ACC,-0.9661365
+David Moore,226,WR,East Central (OK),12,2.4,2017,1,other,-0.3661365000000001
+Josh Carraway,227,OLB,TCU,0,0.0,2017,1,Big 12,-2.7661365
+Joey Ivie,228,DT,Florida,0,0.0,2017,1,SEC,-2.7661365
+Adrian Colbert,229,DB,Miami (FL),8,1.6,2017,1,ACC,-1.1661365
+Josh Harvey-Clemons,230,S,Louisville,4,0.8,2017,1,ACC,-1.9661365
+Jylan Ware,231,T,Alabama St.,0,0.0,2017,1,other,-2.7661365
+Elijah Lee,232,LB,Kansas St.,8,1.6,2017,1,Big 12,-1.1661365
+Harrison Butker,233,K,Georgia Tech,19,3.8,2017,1,ACC,1.0338634999999998
+Ejuan Price,234,DE,Pittsburgh,0,0.0,2017,1,ACC,-2.7661365
+Joshua Holsey,235,DB,Auburn,1,0.2,2017,1,SEC,-2.5661365
+Brad Seaton,236,T,Villanova,0,0.0,2017,1,other,-2.7661365
+Isaiah Ford,237,WR,Virginia Tech,5,1.0,2017,1,ACC,-1.7661365
+Devante Mays,238,RB,Utah St.,0,0.0,2017,1,other,-2.7661365
+Noah Brown,239,WR,Ohio St.,3,0.6,2017,1,Big Ten,-2.1661365
+Marquez Williams,240,FB,Miami (FL),0,0.0,2017,1,ACC,-2.7661365
+Khalfani Muhammad,241,RB,California,0,0.0,2017,1,Pac-12,-2.7661365
+Elijah Hood,242,RB,North Carolina,0,0.0,2017,1,ACC,-2.7661365
+Kyle Fuller,243,C,Baylor,6,1.2,2017,1,Big 12,-1.5661365
+Treyvon Hester,244,DT,Toledo,3,0.6,2017,1,other,-2.1661365
+Jack Tocho,245,CB,North Carolina St.,0,0.0,2017,1,ACC,-2.7661365
+Jordan Carrell,246,DT,Colorado,0,0.0,2017,1,Pac-12,-2.7661365
+Malachi Dupre,247,WR,LSU,0,0.0,2017,1,SEC,-2.7661365
+Keion Adams,248,OLB,Western Michigan,0,0.0,2017,1,other,-2.7661365
+Chris Carson,249,RB,Oklahoma St.,29,5.8,2017,1,Big 12,3.0338635
+Pat O'Connor,250,DE,East. Michigan,3,0.6,2017,1,other,-2.1661365
+Mason Schreck,251,TE,Buffalo,0,0.0,2017,1,other,-2.7661365
+Matthew Dayes,252,RB,North Carolina St.,0,0.0,2017,1,ACC,-2.7661365
+Chad Kelly,253,QB,Mississippi,0,0.0,2017,1,SEC,-2.7661365
